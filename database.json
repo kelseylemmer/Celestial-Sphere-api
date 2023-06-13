@@ -1,382 +1,694 @@
 {
-    "user": [
+  "user": [
+    {
+      "id": 1,
+      "firstName": "Kelsey",
+      "lastName": "Lemmer",
+      "sunSignId": 12,
+      "moonSignId": 3,
+      "risingSignId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Katie",
+      "lastName": "Zarbock",
+      "sunSignId": 3,
+      "moonSignId": 3,
+      "risingSignId": 3
+    },
+    {
+      "id": 3,
+      "firstName": "Logan",
+      "lastName": "Welch",
+      "sunSignId": 12,
+      "moonSignId": 10,
+      "risingSignId": 12
+    },
+    {
+      "id": 4,
+      "firstName": "Bri",
+      "lastName": "Phillips",
+      "sunSignId": 11,
+      "moonSignId": 6,
+      "risingSignId": 10,
+    },
+    {
+      "id": 5,
+      "firstName": "Casey",
+      "lastName": "Ferebee",
+      "sunSignId": 9,
+      "moonSignId": 7,
+      "risingSignId": 7
+    },
+    {
+      "id": 6,
+      "firstName": "Elena",
+      "lastName": "Spradlin",
+      "sunSignId": 3,
+      "moonSignId": 6,
+      "risingSignId": 8
+    },
+    {
+      "id": 7,
+      "firstName": ,
+      "lastName": ,
+      "sunSignId": ,
+      "moonSignId": ,
+      "risingSignId": ,
+    },
+    {
+      "id": ,
+      "firstName": ,
+      "lastName": ,
+      "sunSignId": ,
+      "moonSignId": ,
+      "risingSignId": ,
+    },
+    {
+      "id": 9,
+      "firstName": ,
+      "lastName": ,
+      "sunSignId": ,
+      "moonSignId": ,
+      "risingSignId": ,
+    }
+  ],
+  "sunSign": [
+    {
+      "id": 1,
+      "name": "Aries",
+      "dates": "March 21 - April 19",
+      "element": "Fire",
+      "symbol": "♈︎",
+      "rulingPlanet": "Mars",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 2,
+      "name": "Taurus",
+      "dates": "April 20 - May 20",
+      "element": "Earth",
+      "symbol": "♉︎",
+      "rulingPlanet": "Venus",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "dates": "May 21 - June 20",
+      "element": "Air",
+      "symbol": "♊︎",
+      "rulingPlanet": "Mercury",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 4,
+      "name": "Cancer",
+      "dates": "June 21 - July 22",
+      "element": "Water",
+      "symbol": "♋︎",
+      "rulingPlanet": "Moon",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 5,
+      "name": "Leo",
+      "dates": "July 23 - August 22",
+      "element": "Fire",
+      "symbol": "♌︎",
+      "rulingPlanet": "Sun",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 6,
+      "name": "Virgo",
+      "dates": "August 23 - September 22",
+      "element": "Earth",
+      "symbol": "♍︎",
+      "rulingPlanet": "Mercury",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 7,
+      "name": "Libra",
+      "dates": "September 23 - October 22",
+      "element": "Air",
+      "symbol": "♎︎",
+      "rulingPlanet": "Venus",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 8,
+      "name": "Scorpio",
+      "dates": "October 23 - November 21",
+      "element": "Water",
+      "symbol": "♏︎",
+      "rulingPlanet": "Pluto",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 9,
+      "name": "Sagittarius",
+      "dates": "November 22 - December 21",
+      "element": "Fire",
+      "symbol": "♐︎",
+      "rulingPlanet": "Jupiter",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 10,
+      "name": "Capricorn",
+      "dates": "December 22 - January 19",
+      "element": "Earth",
+      "symbol": "♑︎",
+      "rulingPlanet": "Saturn",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 11,
+      "name": "Aquarius",
+      "dates": "January 20 - February 18",
+      "element": "Air",
+      "symbol": "♒︎",
+      "rulingPlanet": "Uranus",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    },
+    {
+      "id": 12,
+      "name": "Pisces",
+      "dates": "February 19 - March 20",
+      "element": "Water",
+      "symbol": "♓︎",
+      "rulingPlanet": "Neptune",
+      "loveCompatibility": ,
+      "friendCompatibility":
+    }
+  ],
+  "moonSign": [
+    {
+      "id": 1,
+      "name": "Aries",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♈︎"
+    },
+    {
+      "id": 2,
+      "name": "Taurus",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♉︎"
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♊︎"
+    },
+    {
+      "id": 4,
+      "name": "Cancer",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♋︎"
+    },
+    {
+      "id": 5,
+      "name": "Leo",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♌︎"
+    },
+    {
+      "id": 6,
+      "name": "Virgo",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♍︎"
+    },
+    {
+      "id": 7,
+      "name": "Libra",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♎︎"
+    },
+    {
+      "id": 8,
+      "name": "Scorpio",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♏︎"
+    },
+    {
+      "id": 9,
+      "name": "Sagittarius",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♐︎"
+    },
+    {
+      "id": 10,
+      "name": "Capricorn",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♑︎"
+    },
+    {
+      "id": 11,
+      "name": "Aquarius",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♒︎"
+    },
+    {
+      "id": 12,
+      "name": "Pisces",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♓︎"
+    }
+  ],
+  "risingSign": [
+    {
+      "id": 1,
+      "name": "Aries",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♈︎"
+    },
+    {
+      "id": 2,
+      "name": "Taurus",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♉︎"
+    },
+    {
+      "id": 3,
+      "name": "Gemini",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♊︎"
+    },
+    {
+      "id": 4,
+      "name": "Cancer",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♋︎"
+    },
+    {
+      "id": 5,
+      "name": "Leo",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♌︎"
+    },
+    {
+      "id": 6,
+      "name": "Virgo",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♍︎"
+    },
+    {
+      "id": 7,
+      "name": "Libra",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♎︎"
+    },
+    {
+      "id": 8,
+      "name": "Scorpio",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♏︎"
+    },
+    {
+      "id": 9,
+      "name": "Sagittarius",
+      "element": "Fire",
+      "traits": ,
+      "symbol": "♐︎"
+    },
+    {
+      "id": 10,
+      "name": "Capricorn",
+      "element": "Earth",
+      "traits": ,
+      "symbol": "♑︎"
+    },
+    {
+      "id": 11,
+      "name": "Aquarius",
+      "element": "Air",
+      "traits": ,
+      "symbol": "♒︎"
+    },
+    {
+      "id": 12,
+      "name": "Pisces",
+      "element": "Water",
+      "traits": ,
+      "symbol": "♓︎"
+    }
+  ],
+  "ariesTraits": [
+    {
+      "id": 1,
+      "trait": "active"
+    },
+    {
+      "id": 2,
+      "trait": "direct"
+    },
+    {
+      "id": 3,
+      "trait": "childlike"
+    },
+    {
+      "id": 4,
+      "trait": "charming"
+    },
+    {
+      "id": 5,
+      "trait": "brave"
+    }
+  ],
+  "taurusTraits": [
+    {
+      "id": 1,
+      "trait": "comfort-loving"
+    },
+    {
+      "id": 2,
+      "trait": "hard-working"
+    },
+    {
+      "id": 3,
+      "trait": "stubborn"
+    },
+    {
+      "id": 4,
+      "trait": "rooted"
+    },
+    {
+      "id": 5,
+      "trait": "possessive"
+    }
+  ],
+  "geminiTraits": [
+    {
+      "id": 1,
+      "trait": "curious"
+    },
+    {
+      "id": 2,
+      "trait": "expressive"
+    },
+    {
+      "id": 3,
+      "trait": "adaptable"
+    },
+    {
+      "id": 4,
+      "trait": "intellectual"
+    },
+    {
+      "id": 5,
+      "trait": "observant"
+    },
+    {
+      "id": 5,
+      "trait": "restless"
+    }
+  ],
+  "cancerTraits": [
+    {
+      "id": 1,
+      "trait": "protective"
+    },
+    {
+      "id": 2,
+      "trait": "emotional"
+    },
+    {
+      "id": 3,
+      "trait": "private"
+    },
+    {
+      "id": 4,
+      "trait": "caring"
+    },
+    {
+      "id": 5,
+      "trait": "hospitable"
+    }
+  ],
+  "leoTraits": [
+    {
+      "id": 1,
+      "trait": "regal"
+    },
+    {
+      "id": 2,
+      "trait": "noble"
+    },
+    {
+      "id": 3,
+      "trait": "luxurious"
+    },
+    {
+      "id": 4,
+      "trait": "determined"
+    },
+    {
+      "id": 5,
+      "trait": "principled"
+    },
+    {
+      "id": 5,
+      "trait": "confident"
+    }
         {
-            "id": 1,
-            "firstName": "Kelsey",
-            "lastName": "Lemmer",
-            "sunSignId": 12,
-            "moonSignId": 3,
-            "risingSignId": 1
-        },
+      "id": 6,
+      "trait": "humble"
+    }
+  ],
+  "virgoTraits": [
+    {
+      "id": 1,
+      "trait": "self-sufficient"
+    },
+    {
+      "id": 2,
+      "trait": "natural"
+    },
+    {
+      "id": 3,
+      "trait": "shy"
+    },
+    {
+      "id": 4,
+      "trait": "responsible"
+    },
+    {
+      "id": 5,
+      "trait": "practical"
+    },
+    {
+      "id": 5,
+      "trait": "body-aware"
+    }
         {
-            "id": 2,
-            "firstName": "Katie",
-            "lastName": "Zarbock",
-            "sunSignId": 3,
-            "moonSignId": 3,
-            "risingSignId": 3
-        },
-        {
-            "id": 3,
-            "firstName": "Logan",
-            "lastName": "Welch",
-            "sunSignId": 12,
-            "moonSignId": 10 ,
-            "risingSignId": 12
-        },
-        {
-            "id": 4,
-            "firstName": "Bri",
-            "lastName": "Phillips",
-            "sunSignId": 11,
-            "moonSignId": 6,
-            "risingSignId": 10,
-        },
-        {
-            "id": 5,
-            "firstName": "Casey",
-            "lastName": "Ferebee",
-            "sunSignId": 9,
-            "moonSignId": 7,
-            "risingSignId": 7
-        },
-        {
-            "id": 6,
-            "firstName": "Elena",
-            "lastName": "Spradlin",
-            "sunSignId": 3,
-            "moonSignId": 6,
-            "risingSignId": 8
-        },
-        {
-            "id": 7,
-            "firstName": ,
-            "lastName": ,
-            "sunSignId": ,
-            "moonSignId": ,
-            "risingSignId": ,
-        },
-        {
-            "id": ,
-            "firstName": ,
-            "lastName": ,
-            "sunSignId": ,
-            "moonSignId": ,
-            "risingSignId": ,
-        },
-        {
-            "id": 9,
-            "firstName": ,
-            "lastName": ,
-            "sunSignId": ,
-            "moonSignId": ,
-            "risingSignId": ,
-        }
-    ],
-    "sunSign":[
-        {
-            "id": 1,
-            "name": "Aries",
-            "dates": "March 21 - April 19",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♈︎",
-            "rulingPlanet": "Mars",
-            "loveCompatibility": ,
-            "friendCompatibility": 
-        },
-        {
-            "id": 2,
-            "name": "Taurus",
-            "dates": "April 20 - May 20",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♉︎",
-            "rulingPlanet": "Venus",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 3,
-            "name": "Gemini",
-            "dates": "May 21 - June 20",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♊︎",
-            "rulingPlanet": "Mercury",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 4,
-            "name": "Cancer",
-            "dates": "June 21 - July 22",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♋︎",
-            "rulingPlanet": "Moon",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 5,
-            "name": "Leo",
-            "dates": "July 23 - August 22",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♌︎",
-            "rulingPlanet": "Sun",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 6,
-            "name": "Virgo",
-            "dates": "August 23 - September 22",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♍︎",
-            "rulingPlanet": "Mercury" ,
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 7,
-            "name": "Libra",
-            "dates": "September 23 - October 22",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♎︎",
-            "rulingPlanet": "Venus",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 8,
-            "name": "Scorpio",
-            "dates": "October 23 - November 21",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♏︎",
-            "rulingPlanet": "Pluto",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 9,
-            "name": "Sagittarius",
-            "dates": "November 22 - December 21" ,
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♐︎",
-            "rulingPlanet": "Jupiter",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 10,
-            "name": "Capricorn" ,
-            "dates": "December 22 - January 19",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♑︎",
-            "rulingPlanet": "Saturn",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 11,
-            "name": "Aquarius",
-            "dates": "January 20 - February 18",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♒︎",
-            "rulingPlanet": "Uranus",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        },
-        {
-            "id": 12,
-            "name": "Pisces",
-            "dates": "February 19 - March 20",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♓︎",
-            "rulingPlanet": "Neptune",
-            "loveCompatibility": ,
-            "friendCompatibility":
-        }
-    ],
-    "moonSign": [
-        {
-            "id": 1,
-            "name": "Aries",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♈︎"
-        },
-        {
-            "id": 2,
-            "name": "Taurus",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♉︎"
-        },
-        {
-            "id": 3,
-            "name": "Gemini",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♊︎"
-        },
-        {
-            "id": 4,
-            "name": "Cancer",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♋︎"
-        },
-        {
-            "id": 5,
-            "name": "Leo",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♌︎"
-        },
-        {
-            "id": 6,
-            "name": "Virgo",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♍︎"
-        },
-        {
-            "id": 7,
-            "name": "Libra",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♎︎"
-        },
-        {
-            "id": 8,
-            "name": "Scorpio",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♏︎"
-        },
-        {
-            "id": 9,
-            "name": "Sagittarius",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♐︎"
-        },
-        {
-            "id": 10,
-            "name": "Capricorn",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♑︎"
-        },
-        {
-            "id": 11,
-            "name": "Aquarius",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♒︎"
-        },
-        {
-            "id": 12,
-            "name": "Pisces",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♓︎"
-        }
-    ],
-    "risingSign": [
-        {
-            "id": 1,
-            "name": "Aries",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♈︎"
-        },
-        {
-            "id": 2,
-            "name": "Taurus",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♉︎"
-        },
-        {
-            "id": 3,
-            "name": "Gemini",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♊︎"
-        },
-        {
-            "id": 4,
-            "name": "Cancer",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♋︎"
-        },
-        {
-            "id": 5,
-            "name": "Leo",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♌︎"
-        },
-        {
-            "id": 6,
-            "name": "Virgo",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♍︎"
-        },
-        {
-            "id": 7,
-            "name": "Libra" ,
-            "element": "Air",
-            "traits": ,
-            "symbol": "♎︎"
-        },
-        {
-            "id": 8,
-            "name": "Scorpio",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♏︎"
-        },
-        {
-            "id": 9,
-            "name": "Sagittarius",
-            "element": "Fire",
-            "traits": ,
-            "symbol": "♐︎"
-        },
-        {
-            "id": 10,
-            "name": "Capricorn",
-            "element": "Earth",
-            "traits": ,
-            "symbol": "♑︎"
-        },
-        {
-            "id": 11,
-            "name": "Aquarius",
-            "element": "Air",
-            "traits": ,
-            "symbol": "♒︎"
-        },
-        {
-            "id": 12,
-            "name":"Pisces",
-            "element": "Water",
-            "traits": ,
-            "symbol": "♓︎"
-        }
-    ]
+      "id": 6,
+      "trait": "perfectionist"
+    }
+  ],
+  "libraTraits": [
+    {
+      "id": 1,
+      "trait": "approacable"
+    },
+    {
+      "id": 2,
+      "trait": "balanced"
+    },
+    {
+      "id": 3,
+      "trait": "untruthful"
+    },
+    {
+      "id": 4,
+      "trait": "peaceful"
+    },
+    {
+      "id": 5,
+      "trait": "indirect"
+    },
+    {
+      "id": 5,
+      "trait": "just"
+    },
+    {
+      "id": 6,
+      "trait": "civilized"
+    }
+  ],
+  "scorpioTraits": [
+    {
+      "id": 1,
+      "trait": "intense"
+    },
+    {
+      "id": 2,
+      "trait": "non-committal"
+    },
+    {
+      "id": 3,
+      "trait": "prestigeous"
+    },
+    {
+      "id": 4,
+      "trait": "confrontational"
+    },
+    {
+      "id": 5,
+      "trait": "powerful"
+    },
+    {
+      "id": 6,
+      "trait": "persistent"
+    }
+  ],
+  "sagittariusTraits": [
+    {
+      "id": 1,
+      "trait": "cheerful"
+    },
+    {
+      "id": 2,
+      "trait": "friendly"
+    },
+    {
+      "id": 3,
+      "trait": "anti-routine"
+    },
+    {
+      "id": 4,
+      "trait": "idealistic"
+    },
+    {
+      "id": 5,
+      "trait": "quick-tempered"
+    },
+    {
+      "id": 5,
+      "trait": "honest"
+    }
+  ],
+  "capricornTraits": [
+    {
+      "id": 1,
+      "trait": "grounded"
+    },
+    {
+      "id": 2,
+      "trait": "realistic"
+    },
+    {
+      "id": 3,
+      "trait": "helpful"
+    },
+    {
+      "id": 4,
+      "trait": "reserved"
+    },
+    {
+      "id": 5,
+      "trait": "sarcastic"
+    },
+    {
+      "id": 5,
+      "trait": "organized"
+    },
+    {
+      "id": 6,
+      "trait": "dependable"
+    }
+  ],
+  "aquariusTraits": [
+    {
+      "id": 1,
+      "trait": "aloof"
+    },
+    {
+      "id": 2,
+      "trait": "stubborn"
+    },
+    {
+      "id": 3,
+      "trait": "frank"
+    },
+    {
+      "id": 4,
+      "trait": "reformer"
+    },
+    {
+      "id": 5,
+      "trait": "equality"
+    },
+    {
+      "id": 5,
+      "trait": "quirky"
+    },
+    {
+      "id": 6,
+      "trait": "clever"
+    }
+  ],
+  "piscesTraits": [
+    {
+      "id": 1,
+      "trait": "empathetic"
+    },
+    {
+      "id": 2,
+      "trait": "adaptable"
+    },
+    {
+      "id": 3,
+      "trait": "spacy"
+    },
+    {
+      "id": 4,
+      "trait": "imaginative"
+    },
+    {
+      "id": 5,
+      "trait": "sensitive"
+    },
+    {
+      "id": 5,
+      "trait": "irresponsible"
+    },
+    {
+      "id": 6,
+      "trait": "unstructured"
+    }
+  ],
 }
