@@ -1,5 +1,5 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
       "firstName": "kelsey",
@@ -64,7 +64,7 @@
       "risingSignId": 1
     }
   ],
-  "sunSign": [
+  "sunSigns": [
     {
       "id": 1,
       "name": "Aries",
@@ -162,7 +162,7 @@
       "rulingPlanet": "Neptune"
     }
   ],
-  "moonSign": [
+  "moonSigns": [
     {
       "id": 1,
       "name": "Aries",
@@ -260,7 +260,7 @@
       "symbol": "♓︎"
     }
   ],
-  "risingSign": [
+  "risingSigns": [
     {
       "id": 1,
       "name": "Aries",
