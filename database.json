@@ -224,7 +224,7 @@
       "name": "Scorpio",
       "element": "Water",
       "traits": "Intense",
-      "loveCompatibility":4,
+      "loveCompatibility": 4,
       "symbol": "♏︎"
     },
     {
@@ -286,7 +286,7 @@
       "id": 4,
       "name": "Cancer",
       "element": "Water",
-      "traits": "Empathetic" ,
+      "traits": "Empathetic",
       "symbol": "♋︎"
     },
     {
@@ -412,7 +412,7 @@
       "trait": "observant"
     },
     {
-      "id": 5,
+      "id": 6,
       "trait": "restless"
     }
   ],
@@ -460,12 +460,8 @@
       "trait": "principled"
     },
     {
-      "id": 5,
-      "trait": "authoratative"
-    }
-        {
       "id": 6,
-      "trait": "humble"
+      "trait": "authoratative"
     }
   ],
   "virgoTraits": [
@@ -572,7 +568,7 @@
       "trait": "quick-tempered"
     },
     {
-      "id": 5,
+      "id": 6,
       "trait": "honest"
     }
   ],
@@ -645,7 +641,6 @@
       "id": 4,
       "trait": "imaginative"
     },
-
     {
       "id": 5,
       "trait": "impressionable"
@@ -654,5 +649,5 @@
       "id": 6,
       "trait": "unstructured"
     }
-  ],
+  ]
 }
