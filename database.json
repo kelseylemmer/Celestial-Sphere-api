@@ -2,75 +2,66 @@
   "user": [
     {
       "id": 1,
-      "firstName": "Kelsey",
-      "lastName": "Lemmer",
+      "firstName": "kelsey",
+      "lastName": "lemmer",
+      "email": "klemmer@gmail.com",
       "sunSignId": 12,
       "moonSignId": 3,
       "risingSignId": 1
     },
     {
       "id": 2,
-      "firstName": "Katie",
-      "lastName": "Zarbock",
+      "firstName": "katie",
+      "lastName": "zarbock",
+      "email": "kzarbock@gmail.com",
       "sunSignId": 3,
       "moonSignId": 3,
       "risingSignId": 3
     },
     {
       "id": 3,
-      "firstName": "Logan",
-      "lastName": "Welch",
+      "firstName": "logan",
+      "lastName": "welch",
+      "email": "lwelch@gmail.com",
       "sunSignId": 12,
       "moonSignId": 10,
       "risingSignId": 12
     },
     {
       "id": 4,
-      "firstName": "Bri",
-      "lastName": "Phillips",
+      "firstName": "bri",
+      "lastName": "phillips",
+      "email": "bphillips@gmail.com",
       "sunSignId": 11,
       "moonSignId": 6,
-      "risingSignId": 10,
+      "risingSignId": 10
     },
     {
       "id": 5,
-      "firstName": "Casey",
-      "lastName": "Ferebee",
+      "firstName": "casey",
+      "lastName": "ferebee",
+      "email": "cferebee@gmail.com",
       "sunSignId": 9,
       "moonSignId": 7,
       "risingSignId": 7
     },
     {
       "id": 6,
-      "firstName": "Elena",
-      "lastName": "Spradlin",
+      "firstName": "elena",
+      "lastName": "spradlin",
+      "email": "espradlin@gmail.com",
       "sunSignId": 3,
       "moonSignId": 6,
       "risingSignId": 8
     },
     {
       "id": 7,
-      "firstName": ,
-      "lastName": ,
-      "sunSignId": ,
-      "moonSignId": ,
-      "risingSignId": ,
-    },
-    {
-      "id": ,
-      "firstName": ,
-      "lastName": ,
-      "sunSignId": ,
-      "moonSignId": ,
-      "risingSignId": ,
-    },
-    {
-      "id": 9,
-      "firstName": ,
-      "lastName": ,
-      "sunSignId": ,
-      "moonSignId": ,
-      "risingSignId": ,
+      "firstName": "chesney",
+      "lastName": "hardin",
+      "email": "chardin@gmail.com",
+      "sunSignId": 2,
+      "moonSignId": 6,
+      "risingSignId": 1
     }
   ],
   "sunSign": [
@@ -80,9 +71,7 @@
       "dates": "March 21 - April 19",
       "element": "Fire",
       "symbol": "♈︎",
-      "rulingPlanet": "Mars",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Mars"
     },
     {
       "id": 2,
@@ -90,9 +79,7 @@
       "dates": "April 20 - May 20",
       "element": "Earth",
       "symbol": "♉︎",
-      "rulingPlanet": "Venus",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Venus"
     },
     {
       "id": 3,
@@ -100,9 +87,7 @@
       "dates": "May 21 - June 20",
       "element": "Air",
       "symbol": "♊︎",
-      "rulingPlanet": "Mercury",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Mercury"
     },
     {
       "id": 4,
@@ -110,9 +95,7 @@
       "dates": "June 21 - July 22",
       "element": "Water",
       "symbol": "♋︎",
-      "rulingPlanet": "Moon",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Moon"
     },
     {
       "id": 5,
@@ -120,9 +103,7 @@
       "dates": "July 23 - August 22",
       "element": "Fire",
       "symbol": "♌︎",
-      "rulingPlanet": "Sun",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Sun"
     },
     {
       "id": 6,
@@ -130,9 +111,7 @@
       "dates": "August 23 - September 22",
       "element": "Earth",
       "symbol": "♍︎",
-      "rulingPlanet": "Mercury",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Mercury"
     },
     {
       "id": 7,
@@ -140,9 +119,7 @@
       "dates": "September 23 - October 22",
       "element": "Air",
       "symbol": "♎︎",
-      "rulingPlanet": "Venus",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Venus"
     },
     {
       "id": 8,
@@ -150,9 +127,7 @@
       "dates": "October 23 - November 21",
       "element": "Water",
       "symbol": "♏︎",
-      "rulingPlanet": "Pluto",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Pluto"
     },
     {
       "id": 9,
@@ -160,9 +135,7 @@
       "dates": "November 22 - December 21",
       "element": "Fire",
       "symbol": "♐︎",
-      "rulingPlanet": "Jupiter",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Jupiter"
     },
     {
       "id": 10,
@@ -170,9 +143,7 @@
       "dates": "December 22 - January 19",
       "element": "Earth",
       "symbol": "♑︎",
-      "rulingPlanet": "Saturn",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Saturn"
     },
     {
       "id": 11,
@@ -180,9 +151,7 @@
       "dates": "January 20 - February 18",
       "element": "Air",
       "symbol": "♒︎",
-      "rulingPlanet": "Uranus",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Uranus"
     },
     {
       "id": 12,
@@ -190,9 +159,7 @@
       "dates": "February 19 - March 20",
       "element": "Water",
       "symbol": "♓︎",
-      "rulingPlanet": "Neptune",
-      "loveCompatibility": ,
-      "friendCompatibility":
+      "rulingPlanet": "Neptune"
     }
   ],
   "moonSign": [
@@ -200,84 +167,96 @@
       "id": 1,
       "name": "Aries",
       "element": "Fire",
-      "traits": ,
+      "traits": "urgent",
+      "loveCompatibility": 9,
       "symbol": "♈︎"
     },
     {
       "id": 2,
       "name": "Taurus",
       "element": "Earth",
-      "traits": ,
+      "traits": "steady",
+      "loveCompatibility": 10,
       "symbol": "♉︎"
     },
     {
       "id": 3,
       "name": "Gemini",
       "element": "Air",
-      "traits": ,
+      "traits": "Witty",
+      "loveCompatibility": 11,
       "symbol": "♊︎"
     },
     {
       "id": 4,
       "name": "Cancer",
       "element": "Water",
-      "traits": ,
+      "traits": "Funny",
+      "loveCompatibility": 12,
       "symbol": "♋︎"
     },
     {
       "id": 5,
       "name": "Leo",
       "element": "Fire",
-      "traits": ,
+      "traits": "Integirty",
+      "loveCompatibility": 5,
       "symbol": "♌︎"
     },
     {
       "id": 6,
       "name": "Virgo",
       "element": "Earth",
-      "traits": ,
+      "traits": "Content",
+      "loveCompatibility": 2,
       "symbol": "♍︎"
     },
     {
       "id": 7,
       "name": "Libra",
       "element": "Air",
-      "traits": ,
+      "traits": "Harmonious",
+      "loveCompatibility": 3,
       "symbol": "♎︎"
     },
     {
       "id": 8,
       "name": "Scorpio",
       "element": "Water",
-      "traits": ,
+      "traits": "Intense",
+      "loveCompatibility":4,
       "symbol": "♏︎"
     },
     {
       "id": 9,
       "name": "Sagittarius",
       "element": "Fire",
-      "traits": ,
+      "traits": "Easy-going",
+      "loveCompatibility": 1,
       "symbol": "♐︎"
     },
     {
       "id": 10,
       "name": "Capricorn",
       "element": "Earth",
-      "traits": ,
+      "traits": "Productive",
+      "loveCompatibility": 6,
       "symbol": "♑︎"
     },
     {
       "id": 11,
       "name": "Aquarius",
       "element": "Air",
-      "traits": ,
+      "traits": "Humanitarian",
+      "loveCompatibility": 7,
       "symbol": "♒︎"
     },
     {
       "id": 12,
       "name": "Pisces",
       "element": "Water",
-      "traits": ,
+      "traits": "Intuitive",
+      "loveCompatibility": 8,
       "symbol": "♓︎"
     }
   ],
@@ -286,84 +265,84 @@
       "id": 1,
       "name": "Aries",
       "element": "Fire",
-      "traits": ,
+      "traits": "Independent",
       "symbol": "♈︎"
     },
     {
       "id": 2,
       "name": "Taurus",
       "element": "Earth",
-      "traits": ,
+      "traits": "Determined",
       "symbol": "♉︎"
     },
     {
       "id": 3,
       "name": "Gemini",
       "element": "Air",
-      "traits": ,
+      "traits": "Social",
       "symbol": "♊︎"
     },
     {
       "id": 4,
       "name": "Cancer",
       "element": "Water",
-      "traits": ,
+      "traits": "Empathetic" ,
       "symbol": "♋︎"
     },
     {
       "id": 5,
       "name": "Leo",
       "element": "Fire",
-      "traits": ,
+      "traits": "Magnetic",
       "symbol": "♌︎"
     },
     {
       "id": 6,
       "name": "Virgo",
       "element": "Earth",
-      "traits": ,
+      "traits": "Body-aware",
       "symbol": "♍︎"
     },
     {
       "id": 7,
       "name": "Libra",
       "element": "Air",
-      "traits": ,
+      "traits": "Charming",
       "symbol": "♎︎"
     },
     {
       "id": 8,
       "name": "Scorpio",
       "element": "Water",
-      "traits": ,
+      "traits": "Private",
       "symbol": "♏︎"
     },
     {
       "id": 9,
       "name": "Sagittarius",
       "element": "Fire",
-      "traits": ,
+      "traits": "Adventerous",
       "symbol": "♐︎"
     },
     {
       "id": 10,
       "name": "Capricorn",
       "element": "Earth",
-      "traits": ,
+      "traits": "Serious",
       "symbol": "♑︎"
     },
     {
       "id": 11,
       "name": "Aquarius",
       "element": "Air",
-      "traits": ,
+      "traits": "Individual",
       "symbol": "♒︎"
     },
     {
       "id": 12,
       "name": "Pisces",
       "element": "Water",
-      "traits": ,
+      "traits": "Changing",
       "symbol": "♓︎"
     }
   ],
@@ -396,7 +375,7 @@
     },
     {
       "id": 2,
-      "trait": "hard-working"
+      "trait": "perservering"
     },
     {
       "id": 3,
@@ -414,11 +393,11 @@
   "geminiTraits": [
     {
       "id": 1,
-      "trait": "curious"
+      "trait": "responsive"
     },
     {
       "id": 2,
-      "trait": "expressive"
+      "trait": "talkative"
     },
     {
       "id": 3,
@@ -426,7 +405,7 @@
     },
     {
       "id": 4,
-      "trait": "intellectual"
+      "trait": "inquisitive"
     },
     {
       "id": 5,
@@ -452,17 +431,17 @@
     },
     {
       "id": 4,
-      "trait": "caring"
+      "trait": "nurturing"
     },
     {
       "id": 5,
-      "trait": "hospitable"
+      "trait": "contemplative"
     }
   ],
   "leoTraits": [
     {
       "id": 1,
-      "trait": "regal"
+      "trait": "generous"
     },
     {
       "id": 2,
@@ -482,7 +461,7 @@
     },
     {
       "id": 5,
-      "trait": "confident"
+      "trait": "authoratative"
     }
         {
       "id": 6,
@@ -504,7 +483,7 @@
     },
     {
       "id": 4,
-      "trait": "responsible"
+      "trait": "helpful"
     },
     {
       "id": 5,
@@ -512,7 +491,7 @@
     },
     {
       "id": 5,
-      "trait": "body-aware"
+      "trait": "analytical"
     }
         {
       "id": 6,
@@ -534,25 +513,21 @@
     },
     {
       "id": 4,
-      "trait": "peaceful"
+      "trait": "diplomatic"
     },
     {
       "id": 5,
       "trait": "indirect"
     },
     {
-      "id": 5,
-      "trait": "just"
-    },
-    {
       "id": 6,
-      "trait": "civilized"
+      "trait": "artistic"
     }
   ],
   "scorpioTraits": [
     {
       "id": 1,
-      "trait": "intense"
+      "trait": "resourceful"
     },
     {
       "id": 2,
@@ -560,7 +535,7 @@
     },
     {
       "id": 3,
-      "trait": "prestigeous"
+      "trait": "psychological"
     },
     {
       "id": 4,
@@ -572,13 +547,13 @@
     },
     {
       "id": 6,
-      "trait": "persistent"
+      "trait": "passionate"
     }
   ],
   "sagittariusTraits": [
     {
       "id": 1,
-      "trait": "cheerful"
+      "trait": "enthusiastic"
     },
     {
       "id": 2,
@@ -608,11 +583,11 @@
     },
     {
       "id": 2,
-      "trait": "realistic"
+      "trait": "ambitious"
     },
     {
       "id": 3,
-      "trait": "helpful"
+      "trait": "wise"
     },
     {
       "id": 4,
@@ -623,12 +598,8 @@
       "trait": "sarcastic"
     },
     {
-      "id": 5,
-      "trait": "organized"
-    },
-    {
       "id": 6,
-      "trait": "dependable"
+      "trait": "organized"
     }
   ],
   "aquariusTraits": [
@@ -642,15 +613,11 @@
     },
     {
       "id": 3,
-      "trait": "frank"
+      "trait": "inventive"
     },
     {
       "id": 4,
       "trait": "reformer"
-    },
-    {
-      "id": 5,
-      "trait": "equality"
     },
     {
       "id": 5,
@@ -664,7 +631,7 @@
   "piscesTraits": [
     {
       "id": 1,
-      "trait": "empathetic"
+      "trait": "sympathetic"
     },
     {
       "id": 2,
@@ -678,13 +645,10 @@
       "id": 4,
       "trait": "imaginative"
     },
+
     {
       "id": 5,
-      "trait": "sensitive"
-    },
-    {
-      "id": 5,
-      "trait": "irresponsible"
+      "trait": "impressionable"
     },
     {
       "id": 6,
