@@ -167,7 +167,7 @@
       "id": 1,
       "name": "Aries",
       "element": "Fire",
-      "traits": "urgent",
+      "trait": "Urgent",
       "loveCompatibility": 9,
       "symbol": "♈︎"
     },
@@ -175,7 +175,7 @@
       "id": 2,
       "name": "Taurus",
       "element": "Earth",
-      "traits": "steady",
+      "trait": "Steady",
       "loveCompatibility": 10,
       "symbol": "♉︎"
     },
@@ -183,7 +183,7 @@
       "id": 3,
       "name": "Gemini",
       "element": "Air",
-      "traits": "Witty",
+      "trait": "Witty",
       "loveCompatibility": 11,
       "symbol": "♊︎"
     },
@@ -191,7 +191,7 @@
       "id": 4,
       "name": "Cancer",
       "element": "Water",
-      "traits": "Funny",
+      "trait": "Funny",
       "loveCompatibility": 12,
       "symbol": "♋︎"
     },
@@ -199,7 +199,7 @@
       "id": 5,
       "name": "Leo",
       "element": "Fire",
-      "traits": "Integirty",
+      "trait": "Integirty",
       "loveCompatibility": 5,
       "symbol": "♌︎"
     },
@@ -207,7 +207,7 @@
       "id": 6,
       "name": "Virgo",
       "element": "Earth",
-      "traits": "Content",
+      "trait": "Content",
       "loveCompatibility": 2,
       "symbol": "♍︎"
     },
@@ -215,7 +215,7 @@
       "id": 7,
       "name": "Libra",
       "element": "Air",
-      "traits": "Harmonious",
+      "trait": "Harmonious",
       "loveCompatibility": 3,
       "symbol": "♎︎"
     },
@@ -223,7 +223,7 @@
       "id": 8,
       "name": "Scorpio",
       "element": "Water",
-      "traits": "Intense",
+      "trait": "Intense",
       "loveCompatibility": 4,
       "symbol": "♏︎"
     },
@@ -231,7 +231,7 @@
       "id": 9,
       "name": "Sagittarius",
       "element": "Fire",
-      "traits": "Easy-going",
+      "trait": "Easy-going",
       "loveCompatibility": 1,
       "symbol": "♐︎"
     },
@@ -239,7 +239,7 @@
       "id": 10,
       "name": "Capricorn",
       "element": "Earth",
-      "traits": "Productive",
+      "trait": "Productive",
       "loveCompatibility": 6,
       "symbol": "♑︎"
     },
@@ -247,7 +247,7 @@
       "id": 11,
       "name": "Aquarius",
       "element": "Air",
-      "traits": "Humanitarian",
+      "trait": "Humanitarian",
       "loveCompatibility": 7,
       "symbol": "♒︎"
     },
@@ -255,7 +255,7 @@
       "id": 12,
       "name": "Pisces",
       "element": "Water",
-      "traits": "Intuitive",
+      "trait": "Intuitive",
       "loveCompatibility": 8,
       "symbol": "♓︎"
     }
@@ -265,389 +265,147 @@
       "id": 1,
       "name": "Aries",
       "element": "Fire",
-      "traits": "Independent",
+      "trait": "Independent",
       "symbol": "♈︎"
     },
     {
       "id": 2,
       "name": "Taurus",
       "element": "Earth",
-      "traits": "Determined",
+      "trait": "Determined",
       "symbol": "♉︎"
     },
     {
       "id": 3,
       "name": "Gemini",
       "element": "Air",
-      "traits": "Social",
+      "trait": "Social",
       "symbol": "♊︎"
     },
     {
       "id": 4,
       "name": "Cancer",
       "element": "Water",
-      "traits": "Empathetic",
+      "trait": "Empathetic",
       "symbol": "♋︎"
     },
     {
       "id": 5,
       "name": "Leo",
       "element": "Fire",
-      "traits": "Magnetic",
+      "trait": "Magnetic",
       "symbol": "♌︎"
     },
     {
       "id": 6,
       "name": "Virgo",
       "element": "Earth",
-      "traits": "Body-aware",
+      "trait": "Body-aware",
       "symbol": "♍︎"
     },
     {
       "id": 7,
       "name": "Libra",
       "element": "Air",
-      "traits": "Charming",
+      "trait": "Charming",
       "symbol": "♎︎"
     },
     {
       "id": 8,
       "name": "Scorpio",
       "element": "Water",
-      "traits": "Private",
+      "trait": "Private",
       "symbol": "♏︎"
     },
     {
       "id": 9,
       "name": "Sagittarius",
       "element": "Fire",
-      "traits": "Adventerous",
+      "trait": "Adventerous",
       "symbol": "♐︎"
     },
     {
       "id": 10,
       "name": "Capricorn",
       "element": "Earth",
-      "traits": "Serious",
+      "trait": "Serious",
       "symbol": "♑︎"
     },
     {
       "id": 11,
       "name": "Aquarius",
       "element": "Air",
-      "traits": "Individual",
+      "trait": "Individual",
       "symbol": "♒︎"
     },
     {
       "id": 12,
       "name": "Pisces",
       "element": "Water",
-      "traits": "Changing",
+      "trait": "Changing",
       "symbol": "♓︎"
     }
   ],
-  "ariesTraits": [
+  "traits": [
     {
       "id": 1,
-      "trait": "active"
+      "sign": "Aries",
+      "trait": "active, direct, childlike, charming, brave"
     },
     {
       "id": 2,
-      "trait": "direct"
+      "sign": "Taurus",
+      "trait": "comfort-loving, perservering, stubborn, rooted, posessive"
     },
     {
       "id": 3,
-      "trait": "childlike"
+      "sign": "Gemini",
+      "trait": "responsive, talkative, adaptable, inquisitive, observant, restless"
     },
     {
       "id": 4,
-      "trait": "charming"
+      "sign": "Cancer",
+      "trait": "protective, emotional, private, nurturing, contemplative"
     },
     {
       "id": 5,
-      "trait": "brave"
-    }
-  ],
-  "taurusTraits": [
-    {
-      "id": 1,
-      "trait": "comfort-loving"
-    },
-    {
-      "id": 2,
-      "trait": "perservering"
-    },
-    {
-      "id": 3,
-      "trait": "stubborn"
-    },
-    {
-      "id": 4,
-      "trait": "rooted"
-    },
-    {
-      "id": 5,
-      "trait": "possessive"
-    }
-  ],
-  "geminiTraits": [
-    {
-      "id": 1,
-      "trait": "responsive"
-    },
-    {
-      "id": 2,
-      "trait": "talkative"
-    },
-    {
-      "id": 3,
-      "trait": "adaptable"
-    },
-    {
-      "id": 4,
-      "trait": "inquisitive"
-    },
-    {
-      "id": 5,
-      "trait": "observant"
+      "sign": "Leo",
+      "trait": "generous, noble, luxurious, determined, principled, authoratative"
     },
     {
       "id": 6,
-      "trait": "restless"
-    }
-  ],
-  "cancerTraits": [
-    {
-      "id": 1,
-      "trait": "protective"
+      "sign": "Virgo",
+      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, perfectionist"
     },
     {
-      "id": 2,
-      "trait": "emotional"
+      "id": 7,
+      "sign": "Libra",
+      "trait": "approacable, balanced, diplomatic, indirect, artistic"
     },
     {
-      "id": 3,
-      "trait": "private"
+      "id": 8,
+      "sign": "Scorpio",
+      "trait": "resourceful, non-committal, psychological, confrontational, powerful, passionate"
     },
     {
-      "id": 4,
-      "trait": "nurturing"
+      "id": 9,
+      "sign": "Sagittarius",
+      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, honest"
     },
     {
-      "id": 5,
-      "trait": "contemplative"
-    }
-  ],
-  "leoTraits": [
-    {
-      "id": 1,
-      "trait": "generous"
+      "id": 10,
+      "sign": "Capricorn",
+      "trait": "grounded, ambitious, wise, reserved, sarcastic, organized"
     },
     {
-      "id": 2,
-      "trait": "noble"
+      "id": 11,
+      "sign": "Aquarius",
+      "trait": "aloof, stubborn, inventive, reformer, quirky, clever"
     },
     {
-      "id": 3,
-      "trait": "luxurious"
-    },
-    {
-      "id": 4,
-      "trait": "determined"
-    },
-    {
-      "id": 5,
-      "trait": "principled"
-    },
-    {
-      "id": 6,
-      "trait": "authoratative"
-    }
-  ],
-  "virgoTraits": [
-    {
-      "id": 1,
-      "trait": "self-sufficient"
-    },
-    {
-      "id": 2,
-      "trait": "natural"
-    },
-    {
-      "id": 3,
-      "trait": "shy"
-    },
-    {
-      "id": 4,
-      "trait": "helpful"
-    },
-    {
-      "id": 5,
-      "trait": "practical"
-    },
-    {
-      "id": 5,
-      "trait": "analytical"
-    },
-    {
-      "id": 6,
-      "trait": "perfectionist"
-    }
-  ],
-  "libraTraits": [
-    {
-      "id": 1,
-      "trait": "approacable"
-    },
-    {
-      "id": 2,
-      "trait": "balanced"
-    },
-    {
-      "id": 3,
-      "trait": "untruthful"
-    },
-    {
-      "id": 4,
-      "trait": "diplomatic"
-    },
-    {
-      "id": 5,
-      "trait": "indirect"
-    },
-    {
-      "id": 6,
-      "trait": "artistic"
-    }
-  ],
-  "scorpioTraits": [
-    {
-      "id": 1,
-      "trait": "resourceful"
-    },
-    {
-      "id": 2,
-      "trait": "non-committal"
-    },
-    {
-      "id": 3,
-      "trait": "psychological"
-    },
-    {
-      "id": 4,
-      "trait": "confrontational"
-    },
-    {
-      "id": 5,
-      "trait": "powerful"
-    },
-    {
-      "id": 6,
-      "trait": "passionate"
-    }
-  ],
-  "sagittariusTraits": [
-    {
-      "id": 1,
-      "trait": "enthusiastic"
-    },
-    {
-      "id": 2,
-      "trait": "friendly"
-    },
-    {
-      "id": 3,
-      "trait": "anti-routine"
-    },
-    {
-      "id": 4,
-      "trait": "idealistic"
-    },
-    {
-      "id": 5,
-      "trait": "quick-tempered"
-    },
-    {
-      "id": 6,
-      "trait": "honest"
-    }
-  ],
-  "capricornTraits": [
-    {
-      "id": 1,
-      "trait": "grounded"
-    },
-    {
-      "id": 2,
-      "trait": "ambitious"
-    },
-    {
-      "id": 3,
-      "trait": "wise"
-    },
-    {
-      "id": 4,
-      "trait": "reserved"
-    },
-    {
-      "id": 5,
-      "trait": "sarcastic"
-    },
-    {
-      "id": 6,
-      "trait": "organized"
-    }
-  ],
-  "aquariusTraits": [
-    {
-      "id": 1,
-      "trait": "aloof"
-    },
-    {
-      "id": 2,
-      "trait": "stubborn"
-    },
-    {
-      "id": 3,
-      "trait": "inventive"
-    },
-    {
-      "id": 4,
-      "trait": "reformer"
-    },
-    {
-      "id": 5,
-      "trait": "quirky"
-    },
-    {
-      "id": 6,
-      "trait": "clever"
-    }
-  ],
-  "piscesTraits": [
-    {
-      "id": 1,
-      "trait": "sympathetic"
-    },
-    {
-      "id": 2,
-      "trait": "adaptable"
-    },
-    {
-      "id": 3,
-      "trait": "spacy"
-    },
-    {
-      "id": 4,
-      "trait": "imaginative"
-    },
-    {
-      "id": 5,
-      "trait": "impressionable"
-    },
-    {
-      "id": 6,
-      "trait": "unstructured"
+      "id": 12,
+      "sign": "Pisces",
+      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, unstructured"
     }
   ]
 }
