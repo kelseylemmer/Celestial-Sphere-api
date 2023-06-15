@@ -55,13 +55,13 @@
       "risingSignId": 8
     },
     {
-      "id": 7,
-      "firstName": "chesney",
-      "lastName": "hardin",
+      "firstName": "Chesney",
+      "lastName": "Hardin",
       "email": "chardin@gmail.com",
-      "sunSignId": 2,
-      "moonSignId": 6,
-      "risingSignId": 1
+      "sunSignId": "",
+      "moonSignId": "",
+      "risingSignId": "",
+      "id": 7
     }
   ],
   "sunSigns": [
@@ -70,96 +70,108 @@
       "name": "Aries",
       "dates": "March 21 - April 19",
       "element": "Fire",
-      "symbol": "♈︎",
-      "rulingPlanet": "Mars"
+      "rulingPlanet": "Mars",
+      "trait": "active, direct, childlike, charming, brave",
+      "symbol": "♈︎"
     },
     {
       "id": 2,
       "name": "Taurus",
       "dates": "April 20 - May 20",
       "element": "Earth",
-      "symbol": "♉︎",
-      "rulingPlanet": "Venus"
+      "rulingPlanet": "Venus",
+      "trait": "comfort-loving, perservering, stubborn, rooted, posessive",
+      "symbol": "♉︎"
     },
     {
       "id": 3,
       "name": "Gemini",
       "dates": "May 21 - June 20",
       "element": "Air",
-      "symbol": "♊︎",
-      "rulingPlanet": "Mercury"
+      "rulingPlanet": "Mercury",
+      "trait": "responsive, talkative, adaptable, inquisitive, observant, restless",
+      "symbol": "♊︎"
     },
     {
       "id": 4,
       "name": "Cancer",
       "dates": "June 21 - July 22",
       "element": "Water",
-      "symbol": "♋︎",
-      "rulingPlanet": "Moon"
+      "rulingPlanet": "Moon",
+      "trait": "protective, emotional, private, nurturing, contemplative",
+      "symbol": "♋︎"
     },
     {
       "id": 5,
       "name": "Leo",
       "dates": "July 23 - August 22",
       "element": "Fire",
-      "symbol": "♌︎",
-      "rulingPlanet": "Sun"
+      "rulingPlanet": "Sun",
+      "trait": "generous, noble, luxurious, determined, principled, authoratative",
+      "symbol": "♌︎"
     },
     {
       "id": 6,
       "name": "Virgo",
       "dates": "August 23 - September 22",
       "element": "Earth",
-      "symbol": "♍︎",
-      "rulingPlanet": "Mercury"
+      "rulingPlanet": "Mercury",
+      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, perfectionist",
+      "symbol": "♍︎"
     },
     {
       "id": 7,
       "name": "Libra",
       "dates": "September 23 - October 22",
       "element": "Air",
-      "symbol": "♎︎",
-      "rulingPlanet": "Venus"
+      "rulingPlanet": "Venus",
+      "trait": "approacable, balanced, diplomatic, indirect, artistic",
+      "symbol": "♎︎"
     },
     {
       "id": 8,
       "name": "Scorpio",
       "dates": "October 23 - November 21",
       "element": "Water",
-      "symbol": "♏︎",
-      "rulingPlanet": "Pluto"
+      "rulingPlanet": "Pluto",
+      "trait": "resourceful, non-committal, psychological, confrontational, powerful, passionate",
+      "symbol": "♏︎"
     },
     {
       "id": 9,
       "name": "Sagittarius",
       "dates": "November 22 - December 21",
       "element": "Fire",
-      "symbol": "♐︎",
-      "rulingPlanet": "Jupiter"
+      "rulingPlanet": "Jupiter",
+      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, honest",
+      "symbol": "♐︎"
     },
     {
       "id": 10,
       "name": "Capricorn",
       "dates": "December 22 - January 19",
       "element": "Earth",
-      "symbol": "♑︎",
-      "rulingPlanet": "Saturn"
+      "rulingPlanet": "Saturn",
+      "trait": "grounded, ambitious, wise, reserved, sarcastic, organized",
+      "symbol": "♑︎"
     },
     {
       "id": 11,
       "name": "Aquarius",
       "dates": "January 20 - February 18",
       "element": "Air",
-      "symbol": "♒︎",
-      "rulingPlanet": "Uranus"
+      "rulingPlanet": "Uranus",
+      "trait": "aloof, stubborn, inventive, reformer, quirky, clever",
+      "symbol": "♒︎"
     },
     {
       "id": 12,
       "name": "Pisces",
       "dates": "February 19 - March 20",
       "element": "Water",
-      "symbol": "♓︎",
-      "rulingPlanet": "Neptune"
+      "rulingPlanet": "Neptune",
+      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, unstructured",
+      "symbol": "♓︎"
     }
   ],
   "moonSigns": [
@@ -344,68 +356,6 @@
       "element": "Water",
       "trait": "Changing",
       "symbol": "♓︎"
-    }
-  ],
-  "traits": [
-    {
-      "id": 1,
-      "sign": "Aries",
-      "trait": "active, direct, childlike, charming, brave"
-    },
-    {
-      "id": 2,
-      "sign": "Taurus",
-      "trait": "comfort-loving, perservering, stubborn, rooted, posessive"
-    },
-    {
-      "id": 3,
-      "sign": "Gemini",
-      "trait": "responsive, talkative, adaptable, inquisitive, observant, restless"
-    },
-    {
-      "id": 4,
-      "sign": "Cancer",
-      "trait": "protective, emotional, private, nurturing, contemplative"
-    },
-    {
-      "id": 5,
-      "sign": "Leo",
-      "trait": "generous, noble, luxurious, determined, principled, authoratative"
-    },
-    {
-      "id": 6,
-      "sign": "Virgo",
-      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, perfectionist"
-    },
-    {
-      "id": 7,
-      "sign": "Libra",
-      "trait": "approacable, balanced, diplomatic, indirect, artistic"
-    },
-    {
-      "id": 8,
-      "sign": "Scorpio",
-      "trait": "resourceful, non-committal, psychological, confrontational, powerful, passionate"
-    },
-    {
-      "id": 9,
-      "sign": "Sagittarius",
-      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, honest"
-    },
-    {
-      "id": 10,
-      "sign": "Capricorn",
-      "trait": "grounded, ambitious, wise, reserved, sarcastic, organized"
-    },
-    {
-      "id": 11,
-      "sign": "Aquarius",
-      "trait": "aloof, stubborn, inventive, reformer, quirky, clever"
-    },
-    {
-      "id": 12,
-      "sign": "Pisces",
-      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, unstructured"
     }
   ]
 }
