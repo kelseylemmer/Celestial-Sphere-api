@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "firstName": "kelsey",
-      "lastName": "lemmer",
+      "firstName": "Kelsey",
+      "lastName": "Lemmer",
       "email": "klemmer@gmail.com",
       "sunSignId": 12,
       "moonSignId": 3,
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "firstName": "katie",
-      "lastName": "zarbock",
+      "firstName": "Katie",
+      "lastName": "Zarbock",
       "email": "kzarbock@gmail.com",
       "sunSignId": 3,
       "moonSignId": 3,
@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "firstName": "logan",
-      "lastName": "welch",
+      "firstName": "Logan",
+      "lastName": "Welch",
       "email": "lwelch@gmail.com",
       "sunSignId": 12,
       "moonSignId": 10,
@@ -29,8 +29,8 @@
     },
     {
       "id": 4,
-      "firstName": "bri",
-      "lastName": "phillips",
+      "firstName": "Bri",
+      "lastName": "Phillips",
       "email": "bphillips@gmail.com",
       "sunSignId": 11,
       "moonSignId": 6,
@@ -38,8 +38,8 @@
     },
     {
       "id": 5,
-      "firstName": "casey",
-      "lastName": "ferebee",
+      "firstName": "Casey",
+      "lastName": "Ferebee",
       "email": "cferebee@gmail.com",
       "sunSignId": 9,
       "moonSignId": 7,
@@ -47,8 +47,8 @@
     },
     {
       "id": 6,
-      "firstName": "elena",
-      "lastName": "spradlin",
+      "firstName": "Elena",
+      "lastName": "Spradlin",
       "email": "espradlin@gmail.com",
       "sunSignId": 3,
       "moonSignId": 6,
