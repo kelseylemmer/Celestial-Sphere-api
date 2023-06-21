@@ -4,65 +4,107 @@
       "id": 1,
       "firstName": "Kelsey",
       "lastName": "Lemmer",
-      "email": "klemmer@gmail.com",
-      "sunSignId": 12,
-      "moonSignId": 3,
-      "risingSignId": 1
+      "email": "klemmer@gmail.com"
     },
     {
       "id": 2,
       "firstName": "Katie",
       "lastName": "Zarbock",
-      "email": "kzarbock@gmail.com",
-      "sunSignId": 3,
-      "moonSignId": 3,
-      "risingSignId": 3
+      "email": "kzarbock@gmail.com"
     },
     {
       "id": 3,
       "firstName": "Logan",
       "lastName": "Welch",
-      "email": "lwelch@gmail.com",
-      "sunSignId": 12,
-      "moonSignId": 10,
-      "risingSignId": 12
+      "email": "lwelch@gmail.com"
     },
     {
       "id": 4,
       "firstName": "Bri",
       "lastName": "Phillips",
-      "email": "bphillips@gmail.com",
-      "sunSignId": 11,
-      "moonSignId": 6,
-      "risingSignId": 10
+      "email": "bphillips@gmail.com"
     },
     {
       "id": 5,
       "firstName": "Casey",
       "lastName": "Ferebee",
-      "email": "cferebee@gmail.com",
-      "sunSignId": 9,
-      "moonSignId": 7,
-      "risingSignId": 7
+      "email": "cferebee@gmail.com"
     },
     {
       "id": 6,
       "firstName": "Elena",
       "lastName": "Spradlin",
-      "email": "espradlin@gmail.com",
-      "sunSignId": 3,
-      "moonSignId": 6,
-      "risingSignId": 8
+      "email": "espradlin@gmail.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Sam",
+      "lastName": "Thrasher",
+      "email": "sthrasher@gmail.com"
     },
     {
       "firstName": "Chesney",
       "lastName": "Hardin",
       "email": "chardin@gmail.com",
-      "sunSignId": "",
-      "moonSignId": "",
-      "risingSignId": "",
-      "id": 7
+      "id": 8
     }
+  ],
+  "profiles": [
+    {
+    "id": 1,
+    "userId": 1,
+    "sunSignId": 12,
+    "moonSignId": 3,
+    "risingSignId": 1
+  },{
+    "id": 2,
+    "userId": 2,
+    "sunSignId": 3,
+    "moonSignId": 3,
+    "risingSignId": 3
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "sunSignId": 12,
+    "moonSignId": 10,
+    "risingSignId": 12
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "sunSignId": 11,
+    "moonSignId": 6,
+    "risingSignId": 10
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "sunSignId": 9,
+    "moonSignId": 7,
+    "risingSignId": 7
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "sunSignId": 3,
+    "moonSignId": 6,
+    "risingSignId": 8
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "sunSignId": 10,
+    "moonSignId": 9,
+    "risingSignId": 1
+  },
+  {
+    "userId": 8
+    "sunSignId": 0,
+    "moonSignId": 0,
+    "risingSignId": 0,
+    "id": 8
+  }
   ],
   "sunSigns": [
     {
@@ -71,7 +113,7 @@
       "dates": "March 21 - April 19",
       "element": "Fire",
       "rulingPlanet": "Mars",
-      "trait": "active, direct, childlike, charming, brave",
+      "trait": "active, direct, childlike, charming, and brave",
       "symbol": "♈︎"
     },
     {
@@ -80,7 +122,7 @@
       "dates": "April 20 - May 20",
       "element": "Earth",
       "rulingPlanet": "Venus",
-      "trait": "comfort-loving, perservering, stubborn, rooted, posessive",
+      "trait": "comfort-loving, perservering, stubborn, rooted, and posessive",
       "symbol": "♉︎"
     },
     {
@@ -89,7 +131,7 @@
       "dates": "May 21 - June 20",
       "element": "Air",
       "rulingPlanet": "Mercury",
-      "trait": "responsive, talkative, adaptable, inquisitive, observant, restless",
+      "trait": "responsive, talkative, adaptable, inquisitive, observant, and restless",
       "symbol": "♊︎"
     },
     {
@@ -98,7 +140,7 @@
       "dates": "June 21 - July 22",
       "element": "Water",
       "rulingPlanet": "Moon",
-      "trait": "protective, emotional, private, nurturing, contemplative",
+      "trait": "protective, emotional, private, nurturing, and contemplative",
       "symbol": "♋︎"
     },
     {
@@ -107,7 +149,7 @@
       "dates": "July 23 - August 22",
       "element": "Fire",
       "rulingPlanet": "Sun",
-      "trait": "generous, noble, luxurious, determined, principled, authoratative",
+      "trait": "generous, noble, luxurious, determined, principled, and authoratative",
       "symbol": "♌︎"
     },
     {
@@ -116,7 +158,7 @@
       "dates": "August 23 - September 22",
       "element": "Earth",
       "rulingPlanet": "Mercury",
-      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, perfectionist",
+      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, and perfectionist",
       "symbol": "♍︎"
     },
     {
@@ -125,7 +167,7 @@
       "dates": "September 23 - October 22",
       "element": "Air",
       "rulingPlanet": "Venus",
-      "trait": "approacable, balanced, diplomatic, indirect, artistic",
+      "trait": "approacable, balanced, diplomatic, indirect, and artistic",
       "symbol": "♎︎"
     },
     {
@@ -134,7 +176,7 @@
       "dates": "October 23 - November 21",
       "element": "Water",
       "rulingPlanet": "Pluto",
-      "trait": "resourceful, non-committal, psychological, confrontational, powerful, passionate",
+      "trait": "resourceful, non-committal, psychological, confrontational, powerful, and passionate",
       "symbol": "♏︎"
     },
     {
@@ -143,7 +185,7 @@
       "dates": "November 22 - December 21",
       "element": "Fire",
       "rulingPlanet": "Jupiter",
-      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, honest",
+      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, and honest",
       "symbol": "♐︎"
     },
     {
@@ -152,7 +194,7 @@
       "dates": "December 22 - January 19",
       "element": "Earth",
       "rulingPlanet": "Saturn",
-      "trait": "grounded, ambitious, wise, reserved, sarcastic, organized",
+      "trait": "grounded, ambitious, wise, reserved, sarcastic, and organized",
       "symbol": "♑︎"
     },
     {
@@ -161,7 +203,7 @@
       "dates": "January 20 - February 18",
       "element": "Air",
       "rulingPlanet": "Uranus",
-      "trait": "aloof, stubborn, inventive, reformer, quirky, clever",
+      "trait": "aloof, stubborn, inventive, reformer, quirky, and clever",
       "symbol": "♒︎"
     },
     {
@@ -170,7 +212,7 @@
       "dates": "February 19 - March 20",
       "element": "Water",
       "rulingPlanet": "Neptune",
-      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, unstructured",
+      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, and unstructured",
       "symbol": "♓︎"
     }
   ],
@@ -180,7 +222,7 @@
       "name": "Aries",
       "element": "Fire",
       "trait": "Urgent",
-      "loveCompatibility": 9,
+      "loveCompatibility": "Leo",
       "symbol": "♈︎"
     },
     {
@@ -188,7 +230,7 @@
       "name": "Taurus",
       "element": "Earth",
       "trait": "Steady",
-      "loveCompatibility": 10,
+      "loveCompatibility": "Capricorn",
       "symbol": "♉︎"
     },
     {
@@ -196,7 +238,7 @@
       "name": "Gemini",
       "element": "Air",
       "trait": "Witty",
-      "loveCompatibility": 11,
+      "loveCompatibility": "Aquarius",
       "symbol": "♊︎"
     },
     {
@@ -204,7 +246,7 @@
       "name": "Cancer",
       "element": "Water",
       "trait": "Funny",
-      "loveCompatibility": 12,
+      "loveCompatibility": "Pisces",
       "symbol": "♋︎"
     },
     {
@@ -212,7 +254,7 @@
       "name": "Leo",
       "element": "Fire",
       "trait": "Integirty",
-      "loveCompatibility": 5,
+      "loveCompatibility": "Sagittarius",
       "symbol": "♌︎"
     },
     {
@@ -220,7 +262,7 @@
       "name": "Virgo",
       "element": "Earth",
       "trait": "Content",
-      "loveCompatibility": 2,
+      "loveCompatibility": "Taurus",
       "symbol": "♍︎"
     },
     {
@@ -228,7 +270,7 @@
       "name": "Libra",
       "element": "Air",
       "trait": "Harmonious",
-      "loveCompatibility": 3,
+      "loveCompatibility": "Gemini",
       "symbol": "♎︎"
     },
     {
@@ -236,7 +278,7 @@
       "name": "Scorpio",
       "element": "Water",
       "trait": "Intense",
-      "loveCompatibility": 4,
+      "loveCompatibility": "Cancer",
       "symbol": "♏︎"
     },
     {
@@ -244,7 +286,7 @@
       "name": "Sagittarius",
       "element": "Fire",
       "trait": "Easy-going",
-      "loveCompatibility": 1,
+      "loveCompatibility": "Aries",
       "symbol": "♐︎"
     },
     {
@@ -252,7 +294,7 @@
       "name": "Capricorn",
       "element": "Earth",
       "trait": "Productive",
-      "loveCompatibility": 6,
+      "loveCompatibility": "Virgo",
       "symbol": "♑︎"
     },
     {
@@ -260,7 +302,7 @@
       "name": "Aquarius",
       "element": "Air",
       "trait": "Humanitarian",
-      "loveCompatibility": 7,
+      "loveCompatibility": "Libra",
       "symbol": "♒︎"
     },
     {
@@ -268,7 +310,7 @@
       "name": "Pisces",
       "element": "Water",
       "trait": "Intuitive",
-      "loveCompatibility": 8,
+      "loveCompatibility": "Scorpio",
       "symbol": "♓︎"
     }
   ],
