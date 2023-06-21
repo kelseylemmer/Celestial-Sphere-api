@@ -50,13 +50,14 @@
     }
   ],
   "profiles": [
-    {
+  {
     "id": 1,
     "userId": 1,
     "sunSignId": 12,
     "moonSignId": 3,
     "risingSignId": 1
-  },{
+  },
+  {
     "id": 2,
     "userId": 2,
     "sunSignId": 3,
@@ -99,7 +100,7 @@
     "risingSignId": 1
   },
   {
-    "userId": 8
+    "userId": 8,
     "sunSignId": 0,
     "moonSignId": 0,
     "risingSignId": 0,
