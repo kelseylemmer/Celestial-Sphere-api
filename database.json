@@ -50,62 +50,55 @@
     }
   ],
   "profiles": [
-  {
-    "id": 1,
-    "userId": 1,
-    "sunSignId": 12,
-    "moonSignId": 3,
-    "risingSignId": 1
-  },
-  {
-    "id": 2,
-    "userId": 2,
-    "sunSignId": 3,
-    "moonSignId": 3,
-    "risingSignId": 3
-  },
-  {
-    "id": 3,
-    "userId": 3,
-    "sunSignId": 12,
-    "moonSignId": 10,
-    "risingSignId": 12
-  },
-  {
-    "id": 4,
-    "userId": 4,
-    "sunSignId": 11,
-    "moonSignId": 6,
-    "risingSignId": 10
-  },
-  {
-    "id": 5,
-    "userId": 5,
-    "sunSignId": 9,
-    "moonSignId": 7,
-    "risingSignId": 7
-  },
-  {
-    "id": 6,
-    "userId": 6,
-    "sunSignId": 3,
-    "moonSignId": 6,
-    "risingSignId": 8
-  },
-  {
-    "id": 7,
-    "userId": 7,
-    "sunSignId": 10,
-    "moonSignId": 9,
-    "risingSignId": 1
-  },
-  {
-    "userId": 8,
-    "sunSignId": 0,
-    "moonSignId": 0,
-    "risingSignId": 0,
-    "id": 8
-  }
+    {
+      "id": 1,
+      "userId": 1,
+      "sunSignId": 12,
+      "moonSignId": 3,
+      "risingSignId": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "sunSignId": 3,
+      "moonSignId": 3,
+      "risingSignId": 3
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "sunSignId": 12,
+      "moonSignId": 10,
+      "risingSignId": 12
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "sunSignId": 11,
+      "moonSignId": 6,
+      "risingSignId": 10
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "sunSignId": 9,
+      "moonSignId": 7,
+      "risingSignId": 7
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "sunSignId": 3,
+      "moonSignId": 6,
+      "risingSignId": 8
+    },
+    {
+      "id": 7,
+      "userId": 7,
+      "sunSignId": 10,
+      "moonSignId": 9,
+      "risingSignId": 1
+    }
   ],
   "sunSigns": [
     {
