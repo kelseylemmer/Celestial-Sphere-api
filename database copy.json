@@ -47,12 +47,6 @@
       "lastName": "Hardin",
       "email": "chardin@gmail.com",
       "id": 8
-    },
-    {
-      "firstName": "Becca",
-      "lastName": "Shaw",
-      "email": "bshaw@gmail.com",
-      "id": 9
     }
   ],
   "profiles": [
@@ -104,20 +98,6 @@
       "sunSignId": 10,
       "moonSignId": 9,
       "risingSignId": 1
-    },
-    {
-      "userId": 8,
-      "sunSignId": 2,
-      "moonSignId": 6,
-      "risingSignId": 1,
-      "id": 8
-    },
-    {
-      "userId": 9,
-      "sunSignId": 4,
-      "moonSignId": 3,
-      "risingSignId": 7,
-      "id": 9
     }
   ],
   "sunSigns": [
