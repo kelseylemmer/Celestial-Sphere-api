@@ -53,6 +53,12 @@
       "lastName": "Shaw",
       "email": "bshaw@gmail.com",
       "id": 9
+    },
+    {
+      "firstName": "Annie",
+      "lastName": "Storey",
+      "email": "astorey@gmail.com",
+      "id": 10
     }
   ],
   "profiles": [
@@ -118,6 +124,13 @@
       "moonSignId": 3,
       "risingSignId": 7,
       "id": 9
+    },
+    {
+      "userId": 10,
+      "sunSignId": 8,
+      "moonSignId": 9,
+      "risingSignId": 12,
+      "id": 10
     }
   ],
   "sunSigns": [
