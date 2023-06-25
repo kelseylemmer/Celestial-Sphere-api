@@ -1,456 +1,1249 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "firstName": "Kelsey",
-      "lastName": "Lemmer",
-      "email": "klemmer@gmail.com"
-    },
-    {
-      "id": 2,
-      "firstName": "Katie",
-      "lastName": "Zarbock",
-      "email": "kzarbock@gmail.com"
-    },
-    {
-      "id": 3,
-      "firstName": "Logan",
-      "lastName": "Welch",
-      "email": "lwelch@gmail.com"
-    },
-    {
-      "id": 4,
-      "firstName": "Bri",
-      "lastName": "Phillips",
-      "email": "bphillips@gmail.com"
-    },
-    {
-      "id": 5,
-      "firstName": "Casey",
-      "lastName": "Ferebee",
-      "email": "cferebee@gmail.com"
-    },
-    {
-      "id": 6,
-      "firstName": "Elena",
-      "lastName": "Spradlin",
-      "email": "espradlin@gmail.com"
-    },
-    {
-      "id": 7,
-      "firstName": "Sam",
-      "lastName": "Thrasher",
-      "email": "sthrasher@gmail.com"
-    },
-    {
-      "firstName": "Chesney",
-      "lastName": "Hardin",
-      "email": "chardin@gmail.com",
-      "id": 8
-    },
-    {
-      "firstName": "Becca",
-      "lastName": "Shaw",
-      "email": "bshaw@gmail.com",
-      "id": 9
-    },
-    {
-      "firstName": "Annie",
-      "lastName": "Storey",
-      "email": "astorey@gmail.com",
-      "id": 10
-    },
-    {
-      "firstName": "Belle",
-      "lastName": "Hollander",
-      "email": "bhollander@gmail.com",
-      "id": 11
-    },
-    {
-      "firstName": "Taylor",
-      "lastName": "Wadsworth",
-      "email": "twadsworth@gmail.com",
-      "id": 12
-    }
-  ],
-  "profiles": [
-    {
-      "id": 1,
-      "userId": 1,
-      "sunSignId": 12,
-      "moonSignId": 3,
-      "risingSignId": 1
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "sunSignId": 3,
-      "moonSignId": 3,
-      "risingSignId": 3
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "sunSignId": 12,
-      "moonSignId": 10,
-      "risingSignId": 12
-    },
-    {
-      "id": 4,
-      "userId": 4,
-      "sunSignId": 11,
-      "moonSignId": 6,
-      "risingSignId": 10
-    },
-    {
-      "id": 5,
-      "userId": 5,
-      "sunSignId": 9,
-      "moonSignId": 7,
-      "risingSignId": 7
-    },
-    {
-      "id": 6,
-      "userId": 6,
-      "sunSignId": 3,
-      "moonSignId": 6,
-      "risingSignId": 8
-    },
-    {
-      "id": 7,
-      "userId": 7,
-      "sunSignId": 10,
-      "moonSignId": 9,
-      "risingSignId": 1
-    },
-    {
-      "userId": 8,
-      "sunSignId": 2,
-      "moonSignId": 6,
-      "risingSignId": 1,
-      "id": 8
-    },
-    {
-      "userId": 9,
-      "sunSignId": 4,
-      "moonSignId": 3,
-      "risingSignId": 7,
-      "id": 9
-    },
-    {
-      "userId": 10,
-      "sunSignId": 11,
-      "moonSignId": 12,
-      "risingSignId": 7,
-      "id": 10
-    },
-    {
-      "userId": 11,
-      "sunSignId": 11,
-      "moonSignId": 7,
-      "risingSignId": 7,
-      "id": 11
-    },
-    {
-      "userId": 12,
-      "sunSignId": 4,
-      "moonSignId": 6,
-      "risingSignId": 7,
-      "id": 12
-    }
-  ],
-  "sunSigns": [
-    {
-      "id": 1,
-      "name": "Aries",
-      "dates": "March 21 - April 19",
-      "element": "Fire",
-      "rulingPlanet": "Mars",
-      "trait": "active, direct, childlike, charming, and brave",
-      "symbol": "♈︎"
-    },
-    {
-      "id": 2,
-      "name": "Taurus",
-      "dates": "April 20 - May 20",
-      "element": "Earth",
-      "rulingPlanet": "Venus",
-      "trait": "comfort-loving, perservering, stubborn, rooted, and posessive",
-      "symbol": "♉︎"
-    },
-    {
-      "id": 3,
-      "name": "Gemini",
-      "dates": "May 21 - June 20",
-      "element": "Air",
-      "rulingPlanet": "Mercury",
-      "trait": "responsive, talkative, adaptable, inquisitive, observant, and restless",
-      "symbol": "♊︎"
-    },
-    {
-      "id": 4,
-      "name": "Cancer",
-      "dates": "June 21 - July 22",
-      "element": "Water",
-      "rulingPlanet": "Moon",
-      "trait": "protective, emotional, private, nurturing, and contemplative",
-      "symbol": "♋︎"
-    },
-    {
-      "id": 5,
-      "name": "Leo",
-      "dates": "July 23 - August 22",
-      "element": "Fire",
-      "rulingPlanet": "Sun",
-      "trait": "generous, noble, luxurious, determined, principled, and authoratative",
-      "symbol": "♌︎"
-    },
-    {
-      "id": 6,
-      "name": "Virgo",
-      "dates": "August 23 - September 22",
-      "element": "Earth",
-      "rulingPlanet": "Mercury",
-      "trait": "self-sufficient, natural, shy, helpful, practical, analytical, and perfectionist",
-      "symbol": "♍︎"
-    },
-    {
-      "id": 7,
-      "name": "Libra",
-      "dates": "September 23 - October 22",
-      "element": "Air",
-      "rulingPlanet": "Venus",
-      "trait": "approacable, balanced, diplomatic, indirect, and artistic",
-      "symbol": "♎︎"
-    },
-    {
-      "id": 8,
-      "name": "Scorpio",
-      "dates": "October 23 - November 21",
-      "element": "Water",
-      "rulingPlanet": "Pluto",
-      "trait": "resourceful, non-committal, psychological, confrontational, powerful, and passionate",
-      "symbol": "♏︎"
-    },
-    {
-      "id": 9,
-      "name": "Sagittarius",
-      "dates": "November 22 - December 21",
-      "element": "Fire",
-      "rulingPlanet": "Jupiter",
-      "trait": "enthusiastic, friendly, anti-routine, idealistic, quick-tempered, and honest",
-      "symbol": "♐︎"
-    },
-    {
-      "id": 10,
-      "name": "Capricorn",
-      "dates": "December 22 - January 19",
-      "element": "Earth",
-      "rulingPlanet": "Saturn",
-      "trait": "grounded, ambitious, wise, reserved, sarcastic, and organized",
-      "symbol": "♑︎"
-    },
-    {
-      "id": 11,
-      "name": "Aquarius",
-      "dates": "January 20 - February 18",
-      "element": "Air",
-      "rulingPlanet": "Uranus",
-      "trait": "aloof, stubborn, inventive, reformer, quirky, and clever",
-      "symbol": "♒︎"
-    },
-    {
-      "id": 12,
-      "name": "Pisces",
-      "dates": "February 19 - March 20",
-      "element": "Water",
-      "rulingPlanet": "Neptune",
-      "trait": "sympathetic, adaptable, spacy, imaginative, impressionable, and unstructured",
-      "symbol": "♓︎"
-    }
-  ],
-  "moonSigns": [
-    {
-      "id": 1,
-      "name": "Aries",
-      "element": "Fire",
-      "trait": "Urgent",
-      "loveCompatibility": "Leo",
-      "symbol": "♈︎"
-    },
-    {
-      "id": 2,
-      "name": "Taurus",
-      "element": "Earth",
-      "trait": "Steady",
-      "loveCompatibility": "Capricorn",
-      "symbol": "♉︎"
-    },
-    {
-      "id": 3,
-      "name": "Gemini",
-      "element": "Air",
-      "trait": "Witty",
-      "loveCompatibility": "Aquarius",
-      "symbol": "♊︎"
-    },
-    {
-      "id": 4,
-      "name": "Cancer",
-      "element": "Water",
-      "trait": "Funny",
-      "loveCompatibility": "Pisces",
-      "symbol": "♋︎"
-    },
-    {
-      "id": 5,
-      "name": "Leo",
-      "element": "Fire",
-      "trait": "Integirty",
-      "loveCompatibility": "Sagittarius",
-      "symbol": "♌︎"
-    },
-    {
-      "id": 6,
-      "name": "Virgo",
-      "element": "Earth",
-      "trait": "Content",
-      "loveCompatibility": "Taurus",
-      "symbol": "♍︎"
-    },
-    {
-      "id": 7,
-      "name": "Libra",
-      "element": "Air",
-      "trait": "Harmonious",
-      "loveCompatibility": "Gemini",
-      "symbol": "♎︎"
-    },
-    {
-      "id": 8,
-      "name": "Scorpio",
-      "element": "Water",
-      "trait": "Intense",
-      "loveCompatibility": "Cancer",
-      "symbol": "♏︎"
-    },
-    {
-      "id": 9,
-      "name": "Sagittarius",
-      "element": "Fire",
-      "trait": "Easy-going",
-      "loveCompatibility": "Aries",
-      "symbol": "♐︎"
-    },
-    {
-      "id": 10,
-      "name": "Capricorn",
-      "element": "Earth",
-      "trait": "Productive",
-      "loveCompatibility": "Virgo",
-      "symbol": "♑︎"
-    },
-    {
-      "id": 11,
-      "name": "Aquarius",
-      "element": "Air",
-      "trait": "Humanitarian",
-      "loveCompatibility": "Libra",
-      "symbol": "♒︎"
-    },
-    {
-      "id": 12,
-      "name": "Pisces",
-      "element": "Water",
-      "trait": "Intuitive",
-      "loveCompatibility": "Scorpio",
-      "symbol": "♓︎"
-    }
-  ],
-  "risingSigns": [
-    {
-      "id": 1,
-      "name": "Aries",
-      "element": "Fire",
-      "trait": "Independent",
-      "symbol": "♈︎"
-    },
-    {
-      "id": 2,
-      "name": "Taurus",
-      "element": "Earth",
-      "trait": "Determined",
-      "symbol": "♉︎"
-    },
-    {
-      "id": 3,
-      "name": "Gemini",
-      "element": "Air",
-      "trait": "Social",
-      "symbol": "♊︎"
-    },
-    {
-      "id": 4,
-      "name": "Cancer",
-      "element": "Water",
-      "trait": "Empathetic",
-      "symbol": "♋︎"
-    },
-    {
-      "id": 5,
-      "name": "Leo",
-      "element": "Fire",
-      "trait": "Magnetic",
-      "symbol": "♌︎"
-    },
-    {
-      "id": 6,
-      "name": "Virgo",
-      "element": "Earth",
-      "trait": "Body-aware",
-      "symbol": "♍︎"
-    },
-    {
-      "id": 7,
-      "name": "Libra",
-      "element": "Air",
-      "trait": "Charming",
-      "symbol": "♎︎"
-    },
-    {
-      "id": 8,
-      "name": "Scorpio",
-      "element": "Water",
-      "trait": "Private",
-      "symbol": "♏︎"
-    },
-    {
-      "id": 9,
-      "name": "Sagittarius",
-      "element": "Fire",
-      "trait": "Adventerous",
-      "symbol": "♐︎"
-    },
-    {
-      "id": 10,
-      "name": "Capricorn",
-      "element": "Earth",
-      "trait": "Serious",
-      "symbol": "♑︎"
-    },
-    {
-      "id": 11,
-      "name": "Aquarius",
-      "element": "Air",
-      "trait": "Individual",
-      "symbol": "♒︎"
-    },
-    {
-      "id": 12,
-      "name": "Pisces",
-      "element": "Water",
-      "trait": "Changing",
-      "symbol": "♓︎"
-    }
-  ]
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Kelsey",
+            "lastName": "Lemmer",
+            "email": "klemmer@gmail.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Katie",
+            "lastName": "Zarbock",
+            "email": "kzarbock@gmail.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Logan",
+            "lastName": "Welch",
+            "email": "lwelch@gmail.com"
+        },
+        {
+            "id": 4,
+            "firstName": "Bri",
+            "lastName": "Phillips",
+            "email": "bphillips@gmail.com"
+        },
+        {
+            "id": 5,
+            "firstName": "Casey",
+            "lastName": "Ferebee",
+            "email": "cferebee@gmail.com"
+        },
+        {
+            "id": 6,
+            "firstName": "Elena",
+            "lastName": "Spradlin",
+            "email": "espradlin@gmail.com"
+        },
+        {
+            "id": 7,
+            "firstName": "Sam",
+            "lastName": "Thrasher",
+            "email": "sthrasher@gmail.com"
+        },
+        {
+            "firstName": "Chesney",
+            "lastName": "Hardin",
+            "email": "chardin@gmail.com",
+            "id": 8
+        },
+        {
+            "firstName": "Becca",
+            "lastName": "Shaw",
+            "email": "bshaw@gmail.com",
+            "id": 9
+        },
+        {
+            "firstName": "Annie",
+            "lastName": "Storey",
+            "email": "astorey@gmail.com",
+            "id": 10
+        },
+        {
+            "firstName": "Belle",
+            "lastName": "Hollander",
+            "email": "bhollander@gmail.com",
+            "id": 11
+        },
+        {
+            "firstName": "Taylor",
+            "lastName": "Wadsworth",
+            "email": "twadsworth@gmail.com",
+            "id": 12
+        }
+    ],
+    "profiles": [
+        {
+            "id": 1,
+            "userId": 1,
+            "sunId": 12,
+            "moonId": 3,
+            "risingId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "sunId": 3,
+            "moonId": 3,
+            "risingId": 3
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "sunId": 12,
+            "moonId": 10,
+            "risingId": 12
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "sunId": 11,
+            "moonId": 6,
+            "risingId": 10
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "sunId": 9,
+            "moonId": 7,
+            "risingId": 7
+        },
+        {
+            "id": 6,
+            "userId": 6,
+            "sunId": 3,
+            "moonId": 6,
+            "risingId": 8
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "sunId": 10,
+            "moonId": 9,
+            "risingId": 1
+        },
+        {
+            "userId": 8,
+            "sunId": 2,
+            "moonId": 6,
+            "risingId": 1,
+            "id": 8
+        },
+        {
+            "userId": 9,
+            "sunId": 4,
+            "moonId": 3,
+            "risingId": 7,
+            "id": 9
+        },
+        {
+            "userId": 10,
+            "sunId": 11,
+            "moonId": 12,
+            "risingId": 7,
+            "id": 10
+        },
+        {
+            "userId": 11,
+            "sunId": 11,
+            "moonId": 7,
+            "risingId": 7,
+            "id": 11
+        },
+        {
+            "userId": 12,
+            "sunId": 4,
+            "moonId": 6,
+            "risingId": 7,
+            "id": 12
+        }
+    ],
+    "suns": [
+        {
+            "id": 1,
+            "name": "Aries",
+            "dates": " March 21 - April 19",
+            "planet": {
+                "name": "Mars",
+                "description": "the planet of energy and action, rules Aries. It amplifies their assertiveness, courage, and passion, driving them to initiate new ventures and conquer challenges with enthusiasm."
+            },
+            "body": {
+                "part": "head",
+                "about": "Aries individuals are known for their determination and decisiveness, often leading with their heads. They have a strong willpower and are prone to headaches or migraines when under stress. Aries' dynamic energy is channeled through their head, and they may be prone to taking on new challenges head-on"
+            },
+            "house": {
+                "name": "first",
+                "of": "self, personality, and physical appearance",
+                "about": "is also known as the Ascendant or Rising Sign. It reflects how individuals present themselves to the world and their overall outlook on life. This house signifies personal identity, self-image, and the first impressions we make on others"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the ram",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 2,
+            "name": "Taurus",
+            "dates": "April 20 - May 20",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "neck & throat",
+                "about": "Taurus individuals are known for their strong and sensual nature, and their necks are often a focal point of attraction. Taurus individuals may experience throat-related issues, such as sore throats or thyroid imbalances, as their energy centers on this area"
+            },
+            "house": {
+                "name": "second",
+                "of": "personal resources, values, and possessions",
+                "about": "relates to one's financial situation, material possessions, and how they handle their resources. This house also reflects self-worth, talents, and the ability to attract abundance and security"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the bull",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 3,
+            "name": "Gemini",
+            "dates": "May 22 - June 21",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "arms, hands & lungs",
+                "about": "Gemini individuals are expressive and animated in their gestures, often using their hands to communicate. They have nimble and agile hands and may be prone to carpal tunnel syndrome or other hand-related issues due to their active nature"
+            },
+            "house": {
+                "name": "third",
+                "of": "communication, learning, and immediate environment",
+                "about": "governs how individuals express themselves, their communication style, and their intellectual pursuits. This house also relates to siblings, neighbors, short trips, and early education"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the twins",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 4,
+            "name": "Cancer",
+            "dates": "June 21 - July 22",
+            "planet": {
+                "name": "the Moon",
+                "description": "the luminary that represents emotions and intuition, rules Cancer. It intensifies their nurturing instincts, sensitivity, and profound emotional depth, fostering a strong connection with their own feelings and those of others."
+            },
+            "body": {
+                "part": "stomach, brain & chest",
+                "about": "Cancer individuals are deeply connected to their emotions, and their sensitive nature often manifests in their stomachs. They may experience digestive issues or have a tendency to store emotions in their gut. The chest is also a vulnerable area for Cancer individuals, as their caring and nurturing nature can sometimes leave them emotionally exposed"
+            },
+            "house": {
+                "name": "fourth",
+                "of": "home, family, roots, and inner emotional security",
+                "about": "reflects one's relationship with their family, their childhood experiences, and their sense of belonging. This house also indicates the foundation and core of an individual's being"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the crab",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 5,
+            "name": "Leo",
+            "dates": "July 23 - Aug 22",
+            "planet": {
+                "name": "the Sun",
+                "description": "the center of our solar system symbolizing vitality and self-expression, rules Leo. It enhances their natural charisma, leadership qualities, and desire to shine brightly, fueling their creative endeavors and thirst for recognition."
+            },
+            "body": {
+                "part": "the heart",
+                "about": "Leo individuals have a big heart and a generous spirit. They are known for their warm and loving nature. The heart is the center of their vitality and passion. The spine is also significant, as Leos often carry themselves with a regal and upright posture, symbolizing their strong sense of pride and confidence"
+            },
+            "house": {
+                "name": "fifth",
+                "of": "creativity, self-expression, romance, and personal enjoyment",
+                "about": "relates to hobbies, artistic pursuits, love affairs, and the ability to have fun. This house also reflects one's relationship with children and their capacity for joy and self-discovery"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the lion",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 6,
+            "name": "Virgo",
+            "dates": "August 23 - September 22",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "the digestive system",
+                "about": "Virgo individuals are meticulous and detail-oriented, and their digestive health may reflect this attention to detail. They may have sensitive stomachs and are prone to digestive issues. Virgos tend to be conscious of their diet and overall well-being, as they understand the importance of taking care of their body"
+            },
+            "house": {
+                "name": "sixth",
+                "of": "work, daily routines, health, and service",
+                "about": "governs one's approach to work, productivity, and overall well-being. This house also reflects habits, organization, and the ability to be of service to others"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the virgin",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 7,
+            "name": "Libra",
+            "dates": "September 23 - October 22",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "lower back, kidneys & skin",
+                "about": "Libra individuals are known for their sense of balance and harmony. They may be prone to lower back problems or kidney-related issues due to their desire for equilibrium in their lives. The skin is also significant, as Libras are often concerned with aesthetics and have a keen eye for beauty"
+            },
+            "house": {
+                "name": "seventh",
+                "of": "partnerships, relationships, and marriage",
+                "about": "reflects how individuals relate to others, their ability to form harmonious connections, and their ideal partner. This house also indicates the qualities individuals seek in close partnerships"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the scales",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 8,
+            "name": "Scorpio",
+            "dates": "October 23 - November 21",
+            "planet": {
+                "name": "Pluto",
+                "description": "representing transformation and deep subconscious forces, is associated with Scorpio. It intensifies their passion, resilience, and desire for profound change and personal growth, allowing them to delve into the depths of their emotions and uncover hidden truths."
+            },
+            "body": {
+                "part": "reproductive organs & the bowels",
+                "about": "Scorpio individuals possess intense passion and sexuality. They are deeply connected to their desires and emotions. The reproductive organs are a source of power and transformation for Scorpios, and they often exude a magnetic and alluring presence"
+            },
+            "house": {
+                "name": "eighth",
+                "of": "transformation, shared resources, intimacy, and the deeper aspects of life",
+                "about": "relates to joint finances, inheritances, and psychological growth. This house also reflects matters related to sex, death, and rebirth, as well as the ability to navigate change and transformation"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the scorpion",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 9,
+            "name": "Sagittarius",
+            "dates": "November 22 - December 21",
+            "planet": {
+                "name": "Jupiter",
+                "description": "the planet of expansion, wisdom, and luck, rules Sagittarius. It magnifies their adventurous spirit, optimism, and desire for intellectual and spiritual growth, fueling their love for exploration and broadening their horizons."
+            },
+            "body": {
+                "part": "hips, thighs & liver",
+                "about": "Sagittarius individuals are adventurous and active, and their strong legs and hips carry them on their exciting journeys. They may be prone to hip or thigh-related issues due to their active lifestyle. The liver is also significant, as Sagittarians may need to be mindful of their alcohol consumption and overall liver health"
+            },
+            "house": {
+                "name": "ninth",
+                "of": "higher education, spirituality, travel, and personal philosophy",
+                "about": "relates to one's beliefs, wisdom, and quest for truth and meaning. This house reflects the pursuit of knowledge, cultural experiences, and the desire for personal expansion and growth"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the centuar/ archer",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 10,
+            "name": "Capricorn",
+            "dates": "December 21 - January 20",
+            "planet": {
+                "name": "Saturn",
+                "description": "the planet of discipline, responsibility, and structure, rules Capricorn. It enhances their determination, ambition, and sense of duty, fostering their ability to work diligently, achieve goals, and build a solid foundation."
+            },
+            "body": {
+                "part": "bones, joints & knees",
+                "about": "Capricorn individuals are known for their strong sense of structure and responsibility. Their bones provide them with a solid foundation, and their joints symbolize their ability to adapt to different situations. However, they may experience issues with their joints or knees due to their disciplined and hardworking nature"
+            },
+            "house": {
+                "name": "tenth",
+                "of": "career, public image, and social status",
+                "about": "reflects one's professional aspirations, achievements, and reputation in the world. This house indicates how individuals are seen by society and their potential for success and recognition."
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the sea goat",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 11,
+            "name": "Aquarius",
+            "dates": "January 21 - February 18",
+            "planet": {
+                "name": "Uranus",
+                "description": "the planet of originality and innovation, is associated with Aquarius. It amplifies their individuality, intellectual pursuits, and desire for social change, inspiring them to challenge conventions and embrace progressive ideas."
+            },
+            "body": {
+                "part": "circulatory system & ankles",
+                "about": "Aquarius individuals are innovative and forward-thinking. Their circulatory system reflects their ability to connect with others and embrace new ideas. They may be prone to circulatory issues or have a vulnerability in their ankles, as they are constantly on the move, exploring new horizons"
+            },
+            "house": {
+                "name": "eleventh",
+                "of": "friendships, social groups, and aspirations",
+                "about": "relates to one's involvement in communities, networks, and group activities. This house reflects one's ideals, hopes, and dreams for the future, as well as their ability to connect with like-minded individuals"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the water bearer",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 12,
+            "name": "Pisces",
+            "dates": "february 19",
+            "planet": {
+                "name": "Neptune",
+                "description": "the planet of spirituality, intuition, and imagination, rules Pisces. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
+            },
+            "body": {
+                "part": "the feet, lymphatics & liver",
+                "about": "Pisces individuals are deeply sensitive and compassionate. Their feet are often a source of vulnerability and sensitivity. They may experience foot-related issues or have a deep connection to the ground, finding solace in activities such as walking or dancing. The lymphatic system is also significant, as Pisces individuals are highly intuitive and emotionally attuned, and the lymphatic system plays a role in their body's natural cleansing and healing processes"
+            },
+            "house": {
+                "name": "twelfth",
+                "of": "spirituality, the subconscious mind, and hidden matters",
+                "about": "relates to solitude, self-reflection, and the deeper realms of consciousness. This house reflects spiritual practices, subconscious patterns, and the need for solitude and retreat to find inner peace and connection"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the two fishes",
+            "picture": "",
+            "trait": ""
+        }
+    ],
+    "moons": [
+        {
+            "id": 1,
+            "name": "Aries",
+            "planet": {
+                "name": "Mars",
+                "description": "the planet of energy and action, rules Aries. It amplifies their assertiveness, courage, and passion, driving them to initiate new ventures and conquer challenges with enthusiasm."
+            },
+            "body": {
+                "part": "head",
+                "about": "Aries individuals are known for their determination and decisiveness, often leading with their heads. They have a strong willpower and are prone to headaches or migraines when under stress. Aries' dynamic energy is channeled through their head, and they may be prone to taking on new challenges head-on"
+            },
+            "house": {
+                "name": "first",
+                "of": "self, personality, and physical appearance",
+                "about": "is also known as the Ascendant or Rising Sign. It reflects how individuals present themselves to the world and their overall outlook on life. This house signifies personal identity, self-image, and the first impressions we make on others"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the ram",
+            "picture": "",
+            "trait": "",
+            "compatibility": 5
+        },
+        {
+            "id": 2,
+            "name": "Taurus",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "neck & throat",
+                "about": "Taurus individuals are known for their strong and sensual nature, and their necks are often a focal point of attraction. Taurus individuals may experience throat-related issues, such as sore throats or thyroid imbalances, as their energy centers on this area"
+            },
+            "house": {
+                "name": "second",
+                "of": "personal resources, values, and possessions",
+                "about": "relates to one's financial situation, material possessions, and how they handle their resources. This house also reflects self-worth, talents, and the ability to attract abundance and security"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the bull",
+            "picture": "",
+            "trait": "",
+            "compatibility": 10
+        },
+        {
+            "id": 3,
+            "name": "Gemini",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "arms, hands & lungs",
+                "about": "Gemini individuals are expressive and animated in their gestures, often using their hands to communicate. They have nimble and agile hands and may be prone to carpal tunnel syndrome or other hand-related issues due to their active nature"
+            },
+            "house": {
+                "name": "third",
+                "of": "communication, learning, and immediate environment",
+                "about": "governs how individuals express themselves, their communication style, and their intellectual pursuits. This house also relates to siblings, neighbors, short trips, and early education"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the twins",
+            "picture": "",
+            "trait": "",
+            "compatibility": 11
+        },
+        {
+            "id": 4,
+            "name": "Cancer",
+            "planet": {
+                "name": "the Moon",
+                "description": "the luminary that represents emotions and intuition, rules Cancer. It intensifies their nurturing instincts, sensitivity, and profound emotional depth, fostering a strong connection with their own feelings and those of others."
+            },
+            "body": {
+                "part": "stomach, brain & chest",
+                "about": "Cancer individuals are deeply connected to their emotions, and their sensitive nature often manifests in their stomachs. They may experience digestive issues or have a tendency to store emotions in their gut. The chest is also a vulnerable area for Cancer individuals, as their caring and nurturing nature can sometimes leave them emotionally exposed"
+            },
+            "house": {
+                "name": "fourth",
+                "of": "home, family, roots, and inner emotional security",
+                "about": "reflects one's relationship with their family, their childhood experiences, and their sense of belonging. This house also indicates the foundation and core of an individual's being"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the crab",
+            "picture": "",
+            "trait": "",
+            "compatibility": 12
+        },
+        {
+            "id": 5,
+            "name": "Leo",
+            "planet": {
+                "name": "the Sun",
+                "description": "the center of our solar system symbolizing vitality and self-expression, rules Leo. It enhances their natural charisma, leadership qualities, and desire to shine brightly, fueling their creative endeavors and thirst for recognition."
+            },
+            "body": {
+                "part": "the heart",
+                "about": "Leo individuals have a big heart and a generous spirit. They are known for their warm and loving nature. The heart is the center of their vitality and passion. The spine is also significant, as Leos often carry themselves with a regal and upright posture, symbolizing their strong sense of pride and confidence"
+            },
+            "house": {
+                "name": "fifth",
+                "of": "creativity, self-expression, romance, and personal enjoyment",
+                "about": "relates to hobbies, artistic pursuits, love affairs, and the ability to have fun. This house also reflects one's relationship with children and their capacity for joy and self-discovery"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the lion",
+            "picture": "",
+            "trait": "",
+            "compatibility": 9
+        },
+        {
+            "id": 6,
+            "name": "Virgo",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "the digestive system",
+                "about": "Virgo individuals are meticulous and detail-oriented, and their digestive health may reflect this attention to detail. They may have sensitive stomachs and are prone to digestive issues. Virgos tend to be conscious of their diet and overall well-being, as they understand the importance of taking care of their body"
+            },
+            "house": {
+                "name": "sixth",
+                "of": "work, daily routines, health, and service",
+                "about": "governs one's approach to work, productivity, and overall well-being. This house also reflects habits, organization, and the ability to be of service to others"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the virgin",
+            "picture": "",
+            "trait": "",
+            "compatibility": 2
+        },
+        {
+            "id": 7,
+            "name": "Libra",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "lower back, kidneys & skin",
+                "about": "Libra individuals are known for their sense of balance and harmony. They may be prone to lower back problems or kidney-related issues due to their desire for equilibrium in their lives. The skin is also significant, as Libras are often concerned with aesthetics and have a keen eye for beauty"
+            },
+            "house": {
+                "name": "seventh",
+                "of": "partnerships, relationships, and marriage",
+                "about": "reflects how individuals relate to others, their ability to form harmonious connections, and their ideal partner. This house also indicates the qualities individuals seek in close partnerships"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the scales",
+            "picture": "",
+            "trait": "",
+            "compatibility": 3
+        },
+        {
+            "id": 8,
+            "name": "Scorpio",
+            "planet": {
+                "name": "Pluto",
+                "description": "representing transformation and deep subconscious forces, is associated with Scorpio. It intensifies their passion, resilience, and desire for profound change and personal growth, allowing them to delve into the depths of their emotions and uncover hidden truths."
+            },
+            "body": {
+                "part": "reproductive organs & the bowels",
+                "about": "Scorpio individuals possess intense passion and sexuality. They are deeply connected to their desires and emotions. The reproductive organs are a source of power and transformation for Scorpios, and they often exude a magnetic and alluring presence"
+            },
+            "house": {
+                "name": "eighth",
+                "of": "transformation, shared resources, intimacy, and the deeper aspects of life",
+                "about": "relates to joint finances, inheritances, and psychological growth. This house also reflects matters related to sex, death, and rebirth, as well as the ability to navigate change and transformation"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the scorpion",
+            "picture": "",
+            "trait": "",
+            "compatibility": 4
+        },
+        {
+            "id": 9,
+            "name": "Sagittarius",
+            "planet": {
+                "name": "Jupiter",
+                "description": "the planet of expansion, wisdom, and luck, rules Sagittarius. It magnifies their adventurous spirit, optimism, and desire for intellectual and spiritual growth, fueling their love for exploration and broadening their horizons."
+            },
+            "body": {
+                "part": "hips, thighs & liver",
+                "about": "Sagittarius individuals are adventurous and active, and their strong legs and hips carry them on their exciting journeys. They may be prone to hip or thigh-related issues due to their active lifestyle. The liver is also significant, as Sagittarians may need to be mindful of their alcohol consumption and overall liver health"
+            },
+            "house": {
+                "name": "ninth",
+                "of": "higher education, spirituality, travel, and personal philosophy",
+                "about": "relates to one's beliefs, wisdom, and quest for truth and meaning. This house reflects the pursuit of knowledge, cultural experiences, and the desire for personal expansion and growth"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the centuar/ archer",
+            "picture": "",
+            "trait": "",
+            "compatibility": 1
+        },
+        {
+            "id": 10,
+            "name": "Capricorn",
+            "planet": {
+                "name": "Saturn",
+                "description": "the planet of discipline, responsibility, and structure, rules Capricorn. It enhances their determination, ambition, and sense of duty, fostering their ability to work diligently, achieve goals, and build a solid foundation."
+            },
+            "body": {
+                "part": "bones, joints & knees",
+                "about": "Capricorn individuals are known for their strong sense of structure and responsibility. Their bones provide them with a solid foundation, and their joints symbolize their ability to adapt to different situations. However, they may experience issues with their joints or knees due to their disciplined and hardworking nature"
+            },
+            "house": {
+                "name": "tenth",
+                "of": "career, public image, and social status",
+                "about": "reflects one's professional aspirations, achievements, and reputation in the world. This house indicates how individuals are seen by society and their potential for success and recognition."
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the sea goat",
+            "picture": "",
+            "trait": "",
+            "compatibility": 6
+        },
+        {
+            "id": 11,
+            "name": "Aquarius",
+            "planet": {
+                "name": "Uranus",
+                "description": "the planet of originality and innovation, is associated with Aquarius. It amplifies their individuality, intellectual pursuits, and desire for social change, inspiring them to challenge conventions and embrace progressive ideas."
+            },
+            "body": {
+                "part": "circulatory system & ankles",
+                "about": "Aquarius individuals are innovative and forward-thinking. Their circulatory system reflects their ability to connect with others and embrace new ideas. They may be prone to circulatory issues or have a vulnerability in their ankles, as they are constantly on the move, exploring new horizons"
+            },
+            "house": {
+                "name": "eleventh",
+                "of": "friendships, social groups, and aspirations",
+                "about": "relates to one's involvement in communities, networks, and group activities. This house reflects one's ideals, hopes, and dreams for the future, as well as their ability to connect with like-minded individuals"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the water bearer",
+            "picture": "",
+            "trait": "",
+            "compatibility": 7
+        },
+        {
+            "id": 12,
+            "name": "Pisces",
+            "dates": "february 19",
+            "planet": {
+                "name": "Neptune",
+                "description": "the planet of spirituality, intuition, and imagination, rules Pisces. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
+            },
+            "body": {
+                "part": "the feet, lymphatics & liver",
+                "about": "Pisces individuals are deeply sensitive and compassionate. Their feet are often a source of vulnerability and sensitivity. They may experience foot-related issues or have a deep connection to the ground, finding solace in activities such as walking or dancing. The lymphatic system is also significant, as Pisces individuals are highly intuitive and emotionally attuned, and the lymphatic system plays a role in their body's natural cleansing and healing processes"
+            },
+            "house": {
+                "name": "twelfth",
+                "of": "spirituality, the subconscious mind, and hidden matters",
+                "about": "relates to solitude, self-reflection, and the deeper realms of consciousness. This house reflects spiritual practices, subconscious patterns, and the need for solitude and retreat to find inner peace and connection"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the two fishes",
+            "picture": "",
+            "trait": "",
+            "compatibility": 8
+        }
+    ],
+    "risings": [
+        {
+            "id": 1,
+            "name": "Aries",
+            "dates": " March 21 - April 19",
+            "planet": {
+                "name": "Mars",
+                "description": "the planet of energy and action, rules Aries. It amplifies their assertiveness, courage, and passion, driving them to initiate new ventures and conquer challenges with enthusiasm."
+            },
+            "body": {
+                "part": "head",
+                "about": "Aries individuals are known for their determination and decisiveness, often leading with their heads. They have a strong willpower and are prone to headaches or migraines when under stress. Aries' dynamic energy is channeled through their head, and they may be prone to taking on new challenges head-on"
+            },
+            "house": {
+                "name": "first",
+                "of": "self, personality, and physical appearance",
+                "about": "is also known as the Ascendant or Rising Sign. It reflects how individuals present themselves to the world and their overall outlook on life. This house signifies personal identity, self-image, and the first impressions we make on others"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the ram",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 2,
+            "name": "Taurus",
+            "dates": "April 20 - May 20",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "neck & throat",
+                "about": "Taurus individuals are known for their strong and sensual nature, and their necks are often a focal point of attraction. Taurus individuals may experience throat-related issues, such as sore throats or thyroid imbalances, as their energy centers on this area"
+            },
+            "house": {
+                "name": "second",
+                "of": "personal resources, values, and possessions",
+                "about": "relates to one's financial situation, material possessions, and how they handle their resources. This house also reflects self-worth, talents, and the ability to attract abundance and security"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the bull",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 3,
+            "name": "Gemini",
+            "dates": "May 22 - June 21",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "arms, hands & lungs",
+                "about": "Gemini individuals are expressive and animated in their gestures, often using their hands to communicate. They have nimble and agile hands and may be prone to carpal tunnel syndrome or other hand-related issues due to their active nature"
+            },
+            "house": {
+                "name": "third",
+                "of": "communication, learning, and immediate environment",
+                "about": "governs how individuals express themselves, their communication style, and their intellectual pursuits. This house also relates to siblings, neighbors, short trips, and early education"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the twins",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 4,
+            "name": "Cancer",
+            "dates": "June 21 - July 22",
+            "planet": {
+                "name": "the Moon",
+                "description": "the luminary that represents emotions and intuition, rules Cancer. It intensifies their nurturing instincts, sensitivity, and profound emotional depth, fostering a strong connection with their own feelings and those of others."
+            },
+            "body": {
+                "part": "stomach, brain & chest",
+                "about": "Cancer individuals are deeply connected to their emotions, and their sensitive nature often manifests in their stomachs. They may experience digestive issues or have a tendency to store emotions in their gut. The chest is also a vulnerable area for Cancer individuals, as their caring and nurturing nature can sometimes leave them emotionally exposed"
+            },
+            "house": {
+                "name": "fourth",
+                "of": "home, family, roots, and inner emotional security",
+                "about": "reflects one's relationship with their family, their childhood experiences, and their sense of belonging. This house also indicates the foundation and core of an individual's being"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the crab",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 5,
+            "name": "Leo",
+            "dates": "July 23 - Aug 22",
+            "planet": {
+                "name": "the Sun",
+                "description": "the center of our solar system symbolizing vitality and self-expression, rules Leo. It enhances their natural charisma, leadership qualities, and desire to shine brightly, fueling their creative endeavors and thirst for recognition."
+            },
+            "body": {
+                "part": "the heart",
+                "about": "Leo individuals have a big heart and a generous spirit. They are known for their warm and loving nature. The heart is the center of their vitality and passion. The spine is also significant, as Leos often carry themselves with a regal and upright posture, symbolizing their strong sense of pride and confidence"
+            },
+            "house": {
+                "name": "fifth",
+                "of": "creativity, self-expression, romance, and personal enjoyment",
+                "about": "relates to hobbies, artistic pursuits, love affairs, and the ability to have fun. This house also reflects one's relationship with children and their capacity for joy and self-discovery"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the lion",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 6,
+            "name": "Virgo",
+            "dates": "August 23 - September 22",
+            "planet": {
+                "name": "Mercury",
+                "description": "the planet of communication and intellect, rules Gemini and Virgo. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
+            },
+            "body": {
+                "part": "the digestive system",
+                "about": "Virgo individuals are meticulous and detail-oriented, and their digestive health may reflect this attention to detail. They may have sensitive stomachs and are prone to digestive issues. Virgos tend to be conscious of their diet and overall well-being, as they understand the importance of taking care of their body"
+            },
+            "house": {
+                "name": "sixth",
+                "of": "work, daily routines, health, and service",
+                "about": "governs one's approach to work, productivity, and overall well-being. This house also reflects habits, organization, and the ability to be of service to others"
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the virgin",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 7,
+            "name": "Libra",
+            "dates": "September 23 - October 22",
+            "planet": {
+                "name": "Venus",
+                "description": "the planet of love, harmony, and beauty, rules Taurus and Libra. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
+            },
+            "body": {
+                "part": "lower back, kidneys & skin",
+                "about": "Libra individuals are known for their sense of balance and harmony. They may be prone to lower back problems or kidney-related issues due to their desire for equilibrium in their lives. The skin is also significant, as Libras are often concerned with aesthetics and have a keen eye for beauty"
+            },
+            "house": {
+                "name": "seventh",
+                "of": "partnerships, relationships, and marriage",
+                "about": "reflects how individuals relate to others, their ability to form harmonious connections, and their ideal partner. This house also indicates the qualities individuals seek in close partnerships"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the scales",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 8,
+            "name": "Scorpio",
+            "dates": "October 23 - November 21",
+            "planet": {
+                "name": "Pluto",
+                "description": "representing transformation and deep subconscious forces, is associated with Scorpio. It intensifies their passion, resilience, and desire for profound change and personal growth, allowing them to delve into the depths of their emotions and uncover hidden truths."
+            },
+            "body": {
+                "part": "reproductive organs & the bowels",
+                "about": "Scorpio individuals possess intense passion and sexuality. They are deeply connected to their desires and emotions. The reproductive organs are a source of power and transformation for Scorpios, and they often exude a magnetic and alluring presence"
+            },
+            "house": {
+                "name": "eighth",
+                "of": "transformation, shared resources, intimacy, and the deeper aspects of life",
+                "about": "relates to joint finances, inheritances, and psychological growth. This house also reflects matters related to sex, death, and rebirth, as well as the ability to navigate change and transformation"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the scorpion",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 9,
+            "name": "Sagittarius",
+            "dates": "November 22 - December 21",
+            "planet": {
+                "name": "Jupiter",
+                "description": "the planet of expansion, wisdom, and luck, rules Sagittarius. It magnifies their adventurous spirit, optimism, and desire for intellectual and spiritual growth, fueling their love for exploration and broadening their horizons."
+            },
+            "body": {
+                "part": "hips, thighs & liver",
+                "about": "Sagittarius individuals are adventurous and active, and their strong legs and hips carry them on their exciting journeys. They may be prone to hip or thigh-related issues due to their active lifestyle. The liver is also significant, as Sagittarians may need to be mindful of their alcohol consumption and overall liver health"
+            },
+            "house": {
+                "name": "ninth",
+                "of": "higher education, spirituality, travel, and personal philosophy",
+                "about": "relates to one's beliefs, wisdom, and quest for truth and meaning. This house reflects the pursuit of knowledge, cultural experiences, and the desire for personal expansion and growth"
+            },
+            "element": {
+                "name": "Fire",
+                "about": "is associated with passion, energy, and creativity. Fire signs are known for their enthusiasm, confidence, and a burning desire for adventure. They possess a natural charisma and tend to be natural-born leaders who inspire others with their fiery spirit. Fire signs are driven by their ambitions, often pursuing their goals with unwavering determination."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the centuar/ archer",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 10,
+            "name": "Capricorn",
+            "dates": "December 21 - January 20",
+            "planet": {
+                "name": "Saturn",
+                "description": "the planet of discipline, responsibility, and structure, rules Capricorn. It enhances their determination, ambition, and sense of duty, fostering their ability to work diligently, achieve goals, and build a solid foundation."
+            },
+            "body": {
+                "part": "bones, joints & knees",
+                "about": "Capricorn individuals are known for their strong sense of structure and responsibility. Their bones provide them with a solid foundation, and their joints symbolize their ability to adapt to different situations. However, they may experience issues with their joints or knees due to their disciplined and hardworking nature"
+            },
+            "house": {
+                "name": "tenth",
+                "of": "career, public image, and social status",
+                "about": "reflects one's professional aspirations, achievements, and reputation in the world. This house indicates how individuals are seen by society and their potential for success and recognition."
+            },
+            "element": {
+                "name": "Earth",
+                "about": "represents stability, practicality, and groundedness. Earth signs are reliable, responsible, and known for their hardworking nature. They have a strong connection to the physical world and possess a keen sense of organization and attention to detail. These signs value security and material comforts, often seeking tangible results and building a solid foundation for themselves and those around them."
+            },
+            "mode": {
+                "name": "cardinal",
+                "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
+                "sign": "Aries, Cancer, Libra, and Capricorn"
+            },
+            "symbol": "the sea goat",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 11,
+            "name": "Aquarius",
+            "dates": "January 21 - February 18",
+            "planet": {
+                "name": "Uranus",
+                "description": "the planet of originality and innovation, is associated with Aquarius. It amplifies their individuality, intellectual pursuits, and desire for social change, inspiring them to challenge conventions and embrace progressive ideas."
+            },
+            "body": {
+                "part": "circulatory system & ankles",
+                "about": "Aquarius individuals are innovative and forward-thinking. Their circulatory system reflects their ability to connect with others and embrace new ideas. They may be prone to circulatory issues or have a vulnerability in their ankles, as they are constantly on the move, exploring new horizons"
+            },
+            "house": {
+                "name": "eleventh",
+                "of": "friendships, social groups, and aspirations",
+                "about": "relates to one's involvement in communities, networks, and group activities. This house reflects one's ideals, hopes, and dreams for the future, as well as their ability to connect with like-minded individuals"
+            },
+            "element": {
+                "name": "Air",
+                "about": "embodies intellect, communication, and social connection. Air signs are naturally curious, analytical, and adept at processing information. They excel in communication and enjoy engaging in stimulating conversations and debates. These signs are known for their objectivity and ability to see things from multiple perspectives. Air signs value mental stimulation and thrive in social situations."
+            },
+            "mode": {
+                "name": "fixed",
+                "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
+                "sign": "Taurus, Leo, Scorpio, and Aquarius"
+            },
+            "symbol": "the water bearer",
+            "picture": "",
+            "trait": ""
+        },
+        {
+            "id": 12,
+            "name": "Pisces",
+            "dates": "february 19",
+            "planet": {
+                "name": "Neptune",
+                "description": "the planet of spirituality, intuition, and imagination, rules Pisces. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
+            },
+            "body": {
+                "part": "the feet, lymphatics & liver",
+                "about": "Pisces individuals are deeply sensitive and compassionate. Their feet are often a source of vulnerability and sensitivity. They may experience foot-related issues or have a deep connection to the ground, finding solace in activities such as walking or dancing. The lymphatic system is also significant, as Pisces individuals are highly intuitive and emotionally attuned, and the lymphatic system plays a role in their body's natural cleansing and healing processes"
+            },
+            "house": {
+                "name": "twelfth",
+                "of": "spirituality, the subconscious mind, and hidden matters",
+                "about": "relates to solitude, self-reflection, and the deeper realms of consciousness. This house reflects spiritual practices, subconscious patterns, and the need for solitude and retreat to find inner peace and connection"
+            },
+            "element": {
+                "name": "Water",
+                "about": "symbolizes emotions, intuition, and sensitivity. Water signs are deeply attuned to their feelings and possess a heightened sense of empathy. They are often regarded as the most emotionally intelligent signs of the zodiac. Water signs are intuitive and have a strong connection to their inner world. They can be nurturing, compassionate, and seek deep emotional connections with others."
+            },
+            "mode": {
+                "name": "mutable",
+                "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
+                "sign": "Gemini, Virgo, Sagittarius, and Pisces"
+            },
+            "symbol": "the two fishes",
+            "picture": "",
+            "trait": ""
+        }
+    ]
 }
