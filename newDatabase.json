@@ -226,73 +226,73 @@
             "id": 1,
             "signId": 1,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 5
         },
         {
             "id": 2,
             "signId": 2,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 10
         },
         {
             "id": 3,
             "signId": 3,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 11
         },
         {
             "id": 4,
             "signId": 4,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 12
         },
         {
             "id": 5,
             "signId": 5,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 9
         },
         {
             "id": 6,
             "signId": 6,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 2
         },
         {
             "id": 7,
             "signId": 7,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 3
         },
         {
             "id": 8,
             "signId": 8,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 4
         },
         {
             "id": 9,
             "signId": 9,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 1
         },
         {
             "id": 10,
             "signId": 10,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 6
         },
         {
             "id": 11,
             "signId": 11,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 7
         },
         {
             "id": 12,
             "signId": 12,
             "trait": "",
-            "compatibility": ""
+            "compatibility": 8
         }
     ],
     "risings": [
