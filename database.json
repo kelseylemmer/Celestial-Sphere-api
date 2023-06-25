@@ -59,6 +59,18 @@
       "lastName": "Storey",
       "email": "astorey@gmail.com",
       "id": 10
+    },
+    {
+      "firstName": "Belle",
+      "lastName": "Hollander",
+      "email": "bhollander@gmail.com",
+      "id": 11
+    },
+    {
+      "firstName": "Taylor",
+      "lastName": "Wadsworth",
+      "email": "twadsworth@gmail.com",
+      "id": 12
     }
   ],
   "profiles": [
@@ -127,10 +139,24 @@
     },
     {
       "userId": 10,
-      "sunSignId": 8,
-      "moonSignId": 9,
-      "risingSignId": 12,
+      "sunSignId": 11,
+      "moonSignId": 12,
+      "risingSignId": 7,
       "id": 10
+    },
+    {
+      "userId": 11,
+      "sunSignId": 11,
+      "moonSignId": 7,
+      "risingSignId": 7,
+      "id": 11
+    },
+    {
+      "userId": 12,
+      "sunSignId": 4,
+      "moonSignId": 6,
+      "risingSignId": 7,
+      "id": 12
     }
   ],
   "sunSigns": [
