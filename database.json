@@ -486,7 +486,7 @@
     {
       "id": 12,
       "name": "Pisces",
-      "dates": "february 19 - March 20",
+      "dates": "February 19 - March 20",
       "planet": {
         "name": "Neptune",
         "description": "the planet of spirituality, intuition, and imagination. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
@@ -848,7 +848,6 @@
     {
       "id": 12,
       "name": "Pisces",
-      "dates": "February 19 - March 20",
       "planet": {
         "name": "Neptune",
         "description": "the planet of spirituality, intuition, and imagination. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
@@ -881,7 +880,6 @@
     {
       "id": 1,
       "name": "Aries",
-      "dates": " March 21 - April 19",
       "planet": {
         "name": "Mars",
         "description": "the planet of energy and action. It amplifies their assertiveness, courage, and passion, driving them to initiate new ventures and conquer challenges with enthusiasm."
@@ -911,7 +909,6 @@
     {
       "id": 2,
       "name": "Taurus",
-      "dates": "April 20 - May 20",
       "planet": {
         "name": "Venus",
         "description": "the planet of love, harmony, and beauty. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
@@ -941,7 +938,6 @@
     {
       "id": 3,
       "name": "Gemini",
-      "dates": "May 22 - June 21",
       "planet": {
         "name": "Mercury",
         "description": "the planet of communication and intellect. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
@@ -971,7 +967,6 @@
     {
       "id": 4,
       "name": "Cancer",
-      "dates": "June 21 - July 22",
       "planet": {
         "name": "the Moon",
         "description": "the luminary that represents emotions and intuition. It intensifies their nurturing instincts, sensitivity, and profound emotional depth, fostering a strong connection with their own feelings and those of others."
@@ -1001,7 +996,6 @@
     {
       "id": 5,
       "name": "Leo",
-      "dates": "July 23 - Aug 22",
       "planet": {
         "name": "the Sun",
         "description": "the center of our solar system symbolizing vitality and self-expression. It enhances their natural charisma, leadership qualities, and desire to shine brightly, fueling their creative endeavors and thirst for recognition."
@@ -1031,7 +1025,6 @@
     {
       "id": 6,
       "name": "Virgo",
-      "dates": "August 23 - September 22",
       "planet": {
         "name": "Mercury",
         "description": "the planet of communication and intellect. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
@@ -1061,7 +1054,6 @@
     {
       "id": 7,
       "name": "Libra",
-      "dates": "September 23 - October 22",
       "planet": {
         "name": "Venus",
         "description": "the planet of love, harmony, and beauty. It enhances Taurus's appreciation for aesthetics, sensuality, and stability, emphasizing their desire for harmony, material comforts, and deep connections. It amplifies Libra's desire for balance, beauty, and harmonious relationships, enhancing their ability to seek fairness, cooperation, and aesthetic appreciation."
@@ -1091,7 +1083,6 @@
     {
       "id": 8,
       "name": "Scorpio",
-      "dates": "October 23 - November 21",
       "planet": {
         "name": "Pluto",
         "description": "the body representing transformation and deep subconscious forces. It intensifies their passion, resilience, and desire for profound change and personal growth, allowing them to delve into the depths of their emotions and uncover hidden truths."
@@ -1121,7 +1112,6 @@
     {
       "id": 9,
       "name": "Sagittarius",
-      "dates": "November 22 - December 21",
       "planet": {
         "name": "Jupiter",
         "description": "the planet of expansion, wisdom, and luck. It magnifies their adventurous spirit, optimism, and desire for intellectual and spiritual growth, fueling their love for exploration and broadening their horizons."
@@ -1151,7 +1141,6 @@
     {
       "id": 10,
       "name": "Capricorn",
-      "dates": "December 21 - January 20",
       "planet": {
         "name": "Saturn",
         "description": "the planet of discipline, responsibility, and structure. It enhances their determination, ambition, and sense of duty, fostering their ability to work diligently, achieve goals, and build a solid foundation."
@@ -1181,7 +1170,6 @@
     {
       "id": 11,
       "name": "Aquarius",
-      "dates": "January 21 - February 18",
       "planet": {
         "name": "Uranus",
         "description": "the planet of originality and innovation, is associated. It amplifies their individuality, intellectual pursuits, and desire for social change, inspiring them to challenge conventions and embrace progressive ideas."
@@ -1211,7 +1199,6 @@
     {
       "id": 12,
       "name": "Pisces",
-      "dates": "february 19",
       "planet": {
         "name": "Neptune",
         "description": "the planet of spirituality, intuition, and imagination. It enhances their empathy, creativity, and connection to the unseen realms, encouraging their exploration of the mystical and their compassionate nature."
