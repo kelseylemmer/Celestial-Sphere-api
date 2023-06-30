@@ -71,85 +71,122 @@
       "lastName": "Wadsworth",
       "email": "twadsworth@gmail.com",
       "id": 12
+    },
+    {
+      "firstName": "Cassie",
+      "lastName": "Revell",
+      "email": "crevell@gmail.com",
+      "id": 13
+    },
+    {
+      "firstName": "Abbey",
+      "lastName": "Moss",
+      "email": "amoss@gmail.com",
+      "id": 14
+    },
+    {
+      "firstName": "Randy",
+      "lastName": "Hamm",
+      "email": "rhamm@gmail.com",
+      "id": 15
     }
   ],
   "profiles": [
-    {
-      "id": 2,
-      "userId": 2,
-      "sunId": 3,
-      "moonId": 3,
-      "risingId": 3
-    },
     {
       "id": 3,
       "userId": 3,
       "sunId": 12,
       "moonId": 10,
-      "risingId": 12
+      "risingId": 12,
+      "picture": "https://i.imgur.com/CPwyBep.png"
     },
     {
       "id": 4,
       "userId": 4,
       "sunId": 11,
       "moonId": 6,
-      "risingId": 10
+      "risingId": 10,
+      "picture": "https://i.imgur.com/cIHSphf.jpg"
     },
     {
       "id": 5,
       "userId": 5,
       "sunId": 9,
       "moonId": 7,
-      "risingId": 7
+      "risingId": 7,
+      "picture": "https://i.imgur.com/W0OutJt.jpg"
     },
     {
       "id": 6,
       "userId": 6,
       "sunId": 3,
       "moonId": 6,
-      "risingId": 8
+      "risingId": 8,
+      "picture": "https://i.imgur.com/vS805Xk.png"
     },
     {
       "id": 7,
       "userId": 7,
       "sunId": 10,
       "moonId": 9,
-      "risingId": 1
+      "risingId": 1,
+      "picture": "https://i.imgur.com/uLL4y8I.png"
     },
     {
       "userId": 8,
       "sunId": 2,
       "moonId": 6,
       "risingId": 1,
-      "id": 8
-    },
-    {
-      "userId": 9,
-      "sunId": 4,
-      "moonId": 3,
-      "risingId": 7,
-      "id": 9
-    },
-    {
-      "userId": 10,
-      "sunId": 11,
-      "moonId": 12,
-      "risingId": 7,
-      "id": 10
+      "id": 8,
+      "picture": "https://i.imgur.com/51kwKKc.jpg"
     },
     {
       "userId": 11,
       "sunId": 11,
       "moonId": 7,
-      "risingId": 7,
-      "id": 11
+      "risingId": 12,
+      "id": 11,
+      "picture": "https://i.imgur.com/PHhR2iJ.png"
     },
     {
       "userId": 1,
-      "sunId": 12,
-      "moonId": 3,
-      "risingId": 1,
+      "sunId": 3,
+      "moonId": 4,
+      "risingId": 4,
+      "picture": "https://i.imgur.com/N2iPFsc.png",
       "id": 12
+    },
+    {
+      "userId": 2,
+      "sunId": 3,
+      "moonId": 3,
+      "risingId": 3,
+      "picture": "https://i.imgur.com/egDLl3W.png",
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "sunId": 9,
+      "moonId": 11,
+      "risingId": 11,
+      "picture": "https://i.imgur.com/5Lq16Nm.jpg",
+      "id": 14
+    },
+    {
+      "userId": 14,
+      "sunId": 7,
+      "moonId": 12,
+      "risingId": 8,
+      "picture": "https://i.imgur.com/gZUsaCa.jpg",
+      "id": 15
+    },
+    {
+      "userId": 15,
+      "sunId": 11,
+      "moonId": 8,
+      "risingId": 7,
+      "picture": "https://i.imgur.com/rwYOSUg.png",
+      "id": 16
     }
   ],
   "suns": [
@@ -179,7 +216,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the ram",
+      "symbol": "The Ram",
       "picture": "",
       "trait": "With the Sun in Aries, individuals possess a strong sense of self and exude confidence and leadership. They are bold, energetic, and natural initiators. Aries Suns have a pioneering spirit and are not afraid to take risks or assert themselves in pursuit of their goals. They shine brightest when they are at the forefront, blazing their own trails and inspiring others with their dynamic presence."
     },
@@ -209,7 +246,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the bull",
+      "symbol": "The Bull",
       "picture": "",
       "trait": "With the Sun in Taurus, individuals are grounded, practical, and have a strong appreciation for stability and material comforts. They value security and possess a patient and determined nature. Taurus Suns radiate a calm and steady energy and are reliable and trustworthy. They shine brightest when they are creating a sense of security and enjoying the pleasures of life."
     },
@@ -239,7 +276,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the twins",
+      "symbol": "The Twins",
       "picture": "",
       "trait": "With the Sun in Gemini, individuals are intellectually curious, adaptable, and versatile. They possess a quick wit and have a natural gift for communication. Gemini Suns are social butterflies and thrive on mental stimulation and variety. They shine brightest when they are engaging in diverse conversations, sharing knowledge, and connecting with others through their charismatic and engaging personality."
     },
@@ -269,7 +306,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the crab",
+      "symbol": "The Crab",
       "picture": "",
       "trait": "With the Sun in Cancer, individuals are deeply connected to their emotions and possess a nurturing and compassionate nature. They value their home and family and have a strong intuitive sense. Cancer Suns radiate empathy and emotional sensitivity. They shine brightest when they are creating a sense of emotional security, providing care and support to loved ones, and expressing their creative and artistic talents."
     },
@@ -299,7 +336,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the lion",
+      "symbol": "The Lion",
       "picture": "",
       "trait": "With the Sun in Leo, individuals have a radiant and charismatic presence. They possess a natural sense of confidence, creativity, and passion. Leo Suns love to be in the spotlight and have a strong desire for recognition and appreciation. They shine brightest when they are expressing their unique talents, leading with their heart, and inspiring others through their magnetic personality and leadership abilities."
     },
@@ -329,7 +366,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the virgin",
+      "symbol": "The Virgin",
       "picture": "",
       "trait": "With the Sun in Virgo, individuals are analytical, practical, and detail-oriented. They possess a strong work ethic and a desire for perfection. Virgo Suns have a natural ability to discern and analyze, and they thrive in organized and efficient environments. They shine brightest when they are utilizing their analytical skills, serving others through their practicality and attention to detail, and bringing order and structure to their endeavors."
     },
@@ -359,7 +396,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the scales",
+      "symbol": "The Scales",
       "picture": "",
       "trait": "With the Sun in Libra, individuals value harmony, balance, and fairness. They possess a natural sense of diplomacy and are skilled in finding common ground and fostering connections. Libra Suns radiate charm and grace and have a strong desire for partnership and cooperation. They shine brightest when they are promoting peace and harmony, advocating for justice, and creating beauty and harmony in their surroundings."
     },
@@ -389,7 +426,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the scorpion",
+      "symbol": "The Scorpion",
       "picture": "",
       "trait": "With the Sun in Scorpio, individuals possess intensity, depth, and a powerful transformative energy. They are drawn to the mysteries of life and possess strong intuition and emotional depth. Scorpio Suns radiate magnetism and have a piercing insight. They shine brightest when they are embracing their personal power, delving into the depths of emotions, and using their transformative energy to bring about positive change."
     },
@@ -419,7 +456,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the centuar/ archer",
+      "symbol": "The Centaur/ Archer",
       "picture": "",
       "trait": "With the Sun in Sagittarius, individuals are adventurous, optimistic, and have a strong thirst for knowledge and expansion. They possess a love for exploration and a desire to seek truth and meaning. Sagittarius Suns radiate enthusiasm and have a jovial and expansive personality. They shine brightest when they are exploring new horizons, expanding their worldview, and inspiring others with their philosophical insights and zest for life."
     },
@@ -449,7 +486,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the sea goat",
+      "symbol": "The Sea Goat",
       "picture": "With the Sun in Capricorn, individuals are disciplined, ambitious, and possess a strong sense of responsibility. They value structure and are determined to achieve their goals. Capricorn Suns radiate a sense of reliability and wisdom. They shine brightest when they are utilizing their practicality and leadership skills, working towards long-term success, and bringing stability and order to their lives.",
       "trait": ""
     },
@@ -479,7 +516,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the water bearer",
+      "symbol": "The Water Bearer",
       "picture": "",
       "trait": "With the Sun in Aquarius, individuals possess a unique, innovative, and independent spirit. They are forward-thinking, idealistic, and value their individuality and freedom. Aquarius Suns radiate a sense of originality and eccentricity. They shine brightest when they are championing humanitarian causes, embracing their individuality, and using their innovative thinking to bring about positive change for society."
     },
@@ -509,7 +546,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the two fishes",
+      "symbol": "The Two Fishes",
       "picture": "",
       "trait": "With the Sun in Pisces, individuals are intuitive, compassionate, and possess a deep sense of empathy. They are imaginative, dreamy, and possess a strong connection to the spiritual realm. Pisces Suns radiate a sense of ethereal beauty and sensitivity. They shine brightest when they are expressing their creativity, engaging in acts of service and compassion, and tapping into their intuitive and spiritual gifts to bring healing and inspiration to others."
     }
@@ -540,7 +577,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the ram",
+      "symbol": "The Ram",
       "picture": "",
       "trait": "Individuals with the Moon in Aries have an emotionally assertive and impulsive nature. They are passionate and quick to react, wearing their hearts on their sleeves. Their emotions can be fiery and intense, and they have a need for independence and personal freedom. They find emotional fulfillment through taking action, initiating new projects, and pursuing their passions.",
       "compatibility": "Leo"
@@ -570,7 +607,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the bull",
+      "symbol": "The Bull",
       "picture": "",
       "trait": "Those with the Moon in Taurus have a stable and grounded emotional nature. They seek security, comfort, and stability in their lives. They are nurturing and possess a deep appreciation for the sensual pleasures of life. These individuals find emotional fulfillment through creating a sense of security, establishing harmonious environments, and connecting with nature.",
       "compatibility": "Capricorn"
@@ -600,7 +637,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the twins",
+      "symbol": "The Twins",
       "picture": "",
       "trait": "Individuals with the Moon in Gemini have a versatile and intellectually curious emotional nature. They are sociable, adaptable, and enjoy mental stimulation. They have a need for variety and can be emotionally detached at times. They find emotional fulfillment through communication, social interaction, learning, and exchanging ideas with others.",
       "compatibility": "Aquarius"
@@ -630,7 +667,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the crab",
+      "symbol": "The Crab",
       "picture": "",
       "trait": "Those with the Moon in Cancer have a nurturing and deeply emotional nature. They are intuitive, empathetic, and seek emotional security and connection. They have a strong attachment to their family and home. These individuals find emotional fulfillment through nurturing and caring for others, creating a sense of emotional safety, and embracing their nurturing instincts.",
       "compatibility": "Pisces"
@@ -660,7 +697,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the lion",
+      "symbol": "The Lion",
       "picture": "",
       "trait": "Individuals with the Moon in Leo have a dramatic and expressive emotional nature. They crave attention, recognition, and appreciation. They are generous, passionate, and loyal. These individuals find emotional fulfillment through self-expression, creativity, and being at the center of attention. They have a need to be admired and loved.",
       "compatibility": "Sagittarius"
@@ -690,7 +727,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the virgin",
+      "symbol": "The Virgin",
       "picture": "",
       "trait": "Those with the Moon in Virgo have a practical and analytical emotional nature. They are detail-oriented, conscientious, and seek order and perfection. They have a need for efficiency and may be self-critical. These individuals find emotional fulfillment through being of service to others, organizing and improving their environment, and paying attention to their physical and mental well-being.",
       "compatibility": "Taurus"
@@ -720,7 +757,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the scales",
+      "symbol": "The Scales",
       "picture": "",
       "trait": "Individuals with the Moon in Libra have a harmonious and diplomatic emotional nature. They value balance, peace, and fairness. They seek emotional connection through partnership and relationships. These individuals find emotional fulfillment through creating harmony, fostering cooperation, and seeking beauty and aesthetics in their surroundings.",
       "compatibility": "Gemini"
@@ -902,7 +939,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the ram",
+      "symbol": "The Ram",
       "picture": "",
       "trait": "Those with Aries Rising have a bold, confident, and energetic approach to life. They possess a strong presence and radiate enthusiasm. Aries Rising individuals are natural leaders and initiators, often bursting with passion and a sense of adventure. They have a dynamic and assertive exterior that reflects their pioneering spirit."
     },
@@ -931,7 +968,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the bull",
+      "symbol": "The Bull",
       "picture": "",
       "trait": "Those with Taurus Rising have a calm, steady, and grounded demeanor. They exude an aura of stability and reliability. Taurus Rising individuals appreciate comfort and beauty, and their appearance often reflects their refined taste. They have a patient and determined approach to life, showcasing their practicality and love for the sensual pleasures of existence."
     },
@@ -960,7 +997,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the twins",
+      "symbol": "The Twins",
       "picture": "",
       "trait": "Those with Gemini Rising have a curious, adaptable, and communicative nature. They are social butterflies, often engaging in lively conversations and connecting with people from all walks of life. Gemini Rising individuals possess a youthful and expressive charm, with their quick wit and intellectual versatility shining through in their interactions."
     },
@@ -989,7 +1026,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the crab",
+      "symbol": "The Crab",
       "picture": "",
       "trait": "Those with Cancer Rising have a nurturing, sensitive, and empathetic demeanor. They radiate a warm and approachable aura, making others feel instantly comfortable in their presence. Cancer Rising individuals are deeply connected to their emotions and possess a strong intuition. Their caring and compassionate nature is evident in their protective and nurturing instincts."
     },
@@ -1018,7 +1055,7 @@
         "about": "represents stability, determination, and steadfastness. Those influenced by the fixed mode are known for their strong willpower and unwavering resolve. They are dependable and loyal, often seeking security and consistency. Fixed signs are determined and persistent, often striving to maintain control and stability in their lives. They possess a strong sense of purpose and are dedicated to their goals, making them reliable and trustworthy individuals.",
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
-      "symbol": "the lion",
+      "symbol": "The Lion",
       "picture": "",
       "trait": "Those with Leo Rising have a magnetic, confident, and charismatic presence. They command attention wherever they go, exuding an air of royalty and glamour. Leo Rising individuals possess natural leadership qualities and a strong sense of self-expression. Their radiant energy and dramatic flair draw others towards them, igniting a sense of admiration and inspiration."
     },
@@ -1047,7 +1084,7 @@
         "about": "represents adaptability, flexibility, and changeability. Those influenced by the mutable mode are known for their ability to go with the flow and adjust to different situations. They are versatile and open-minded, often seeking new experiences and embracing change. Mutable signs excel in communication and tend to be resourceful problem solvers. They are adept at navigating transitions and possess a natural ability to bridge gaps between different perspectives.",
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
-      "symbol": "the virgin",
+      "symbol": "The Virgin",
       "picture": "",
       "trait": "Those with Virgo Rising have an analytical, practical, and observant approach to life. They have a keen eye for detail and possess a meticulous nature. Virgo Rising individuals exhibit a modest and humble demeanor, often prioritizing efficiency and organization in their personal presentation. Their intellect and analytical abilities shine through in their interactions with others."
     },
@@ -1076,7 +1113,7 @@
         "about": "represents initiation, leadership, and action. Those influenced by the cardinal mode are natural-born leaders and initiators. They have a strong drive to take charge and make things happen. Cardinal signs are assertive and ambitious, often setting the tone and direction for themselves and others. They are proactive and goal-oriented, with a knack for starting new projects and taking on challenges. Cardinal signs are known for their ability to make decisions and bring about change.",
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
-      "symbol": "the scales",
+      "symbol": "The Scales",
       "picture": "",
       "trait": "Those with Libra Rising have a diplomatic, harmonious, and charming presence. They have a natural sense of balance and seek harmony in all areas of life. Libra Rising individuals possess a refined and elegant appearance, radiating grace and poise. Their sociable nature and desire for fairness make them skilled at creating harmonious connections with others."
     },
