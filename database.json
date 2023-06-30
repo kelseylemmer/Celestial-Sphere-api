@@ -89,6 +89,18 @@
       "lastName": "Hamm",
       "email": "rhamm@gmail.com",
       "id": 15
+    },
+    {
+      "firstName": "Will",
+      "lastName": "Briscoe",
+      "email": "wbriscoe@gmail.com",
+      "id": 16
+    },
+    {
+      "firstName": "Will",
+      "lastName": "Jackson",
+      "email": "wjackson@gmail.com",
+      "id": 17
     }
   ],
   "profiles": [
@@ -187,6 +199,22 @@
       "risingId": 7,
       "picture": "https://i.imgur.com/rwYOSUg.png",
       "id": 16
+    },
+    {
+      "userId": 16,
+      "sunId": 7,
+      "moonId": 5,
+      "risingId": 9,
+      "picture": "https: //i.imgur.com/TgkqULs.png",
+      "id": 17
+    },
+    {
+      "userId": 17,
+      "sunId": 4,
+      "moonId": 2,
+      "risingId": 5,
+      "picture": "https://i.imgur.com/J7U2XxA.jpg",
+      "id": 18
     }
   ],
   "suns": [
