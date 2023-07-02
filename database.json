@@ -637,7 +637,7 @@
       "symbol": "The Ram",
       "picture": "",
       "trait": "Individuals with the Moon in Aries have an emotionally assertive and impulsive nature. They are passionate and quick to react, wearing their hearts on their sleeves. Their emotions can be fiery and intense, and they have a need for independence and personal freedom. They find emotional fulfillment through taking action, initiating new projects, and pursuing their passions.",
-      "compatibility": "Leo"
+      "compatibility": 5
     },
     {
       "id": 2,
@@ -667,7 +667,7 @@
       "symbol": "The Bull",
       "picture": "",
       "trait": "Those with the Moon in Taurus have a stable and grounded emotional nature. They seek security, comfort, and stability in their lives. They are nurturing and possess a deep appreciation for the sensual pleasures of life. These individuals find emotional fulfillment through creating a sense of security, establishing harmonious environments, and connecting with nature.",
-      "compatibility": "Capricorn"
+      "compatibility": 10
     },
     {
       "id": 3,
@@ -697,7 +697,7 @@
       "symbol": "The Twins",
       "picture": "",
       "trait": "Individuals with the Moon in Gemini have a versatile and intellectually curious emotional nature. They are sociable, adaptable, and enjoy mental stimulation. They have a need for variety and can be emotionally detached at times. They find emotional fulfillment through communication, social interaction, learning, and exchanging ideas with others.",
-      "compatibility": "Aquarius"
+      "compatibility": 11
     },
     {
       "id": 4,
@@ -727,7 +727,7 @@
       "symbol": "The Crab",
       "picture": "",
       "trait": "Those with the Moon in Cancer have a nurturing and deeply emotional nature. They are intuitive, empathetic, and seek emotional security and connection. They have a strong attachment to their family and home. These individuals find emotional fulfillment through nurturing and caring for others, creating a sense of emotional safety, and embracing their nurturing instincts.",
-      "compatibility": "Pisces"
+      "compatibility": 12
     },
     {
       "id": 5,
@@ -757,7 +757,7 @@
       "symbol": "The Lion",
       "picture": "",
       "trait": "Individuals with the Moon in Leo have a dramatic and expressive emotional nature. They crave attention, recognition, and appreciation. They are generous, passionate, and loyal. These individuals find emotional fulfillment through self-expression, creativity, and being at the center of attention. They have a need to be admired and loved.",
-      "compatibility": "Sagittarius"
+      "compatibility": 9
     },
     {
       "id": 6,
@@ -787,7 +787,7 @@
       "symbol": "The Virgin",
       "picture": "",
       "trait": "Those with the Moon in Virgo have a practical and analytical emotional nature. They are detail-oriented, conscientious, and seek order and perfection. They have a need for efficiency and may be self-critical. These individuals find emotional fulfillment through being of service to others, organizing and improving their environment, and paying attention to their physical and mental well-being.",
-      "compatibility": "Taurus"
+      "compatibility": 2
     },
     {
       "id": 7,
@@ -817,7 +817,7 @@
       "symbol": "The Scales",
       "picture": "",
       "trait": "Individuals with the Moon in Libra have a harmonious and diplomatic emotional nature. They value balance, peace, and fairness. They seek emotional connection through partnership and relationships. These individuals find emotional fulfillment through creating harmony, fostering cooperation, and seeking beauty and aesthetics in their surroundings.",
-      "compatibility": "Gemini"
+      "compatibility": 3
     },
     {
       "id": 8,
@@ -847,7 +847,7 @@
       "symbol": "the scorpion",
       "picture": "",
       "trait": "Those with the Moon in Scorpio have an intense and deeply emotional nature. They are passionate, secretive, and possess strong instincts. They seek emotional depth and transformation. These individuals find emotional fulfillment through delving into their own psyche, connecting on a soul level with others, and embracing the power of their emotions.",
-      "compatibility": "Cancer"
+      "compatibility": 4
     },
     {
       "id": 9,
@@ -877,7 +877,7 @@
       "symbol": "the centuar/ archer",
       "picture": "",
       "trait": "Individuals with the Moon in Sagittarius have an adventurous and optimistic emotional nature. They are enthusiastic, open-minded, and seek meaning and expansion. They have a need for freedom and exploration. These individuals find emotional fulfillment through learning, traveling, engaging in philosophical discussions, and embracing new experiences.",
-      "compatibility": "Aries"
+      "compatibility": 1
     },
     {
       "id": 10,
@@ -907,7 +907,7 @@
       "symbol": "the sea goat",
       "picture": "",
       "trait": "Those with the Moon in Capricorn have a responsible and disciplined emotional nature. They are pragmatic, ambitious, and seek structure and stability. They have a need for achievement and success. These individuals find emotional fulfillment through setting goals, working hard, establishing solid foundations, and being recognized for their accomplishments.",
-      "compatibility": "Virgo"
+      "compatibility": 6
     },
     {
       "id": 11,
@@ -937,7 +937,7 @@
       "symbol": "the water bearer",
       "picture": "",
       "trait": "Individuals with the Moon in Aquarius have an independent and unconventional emotional nature. They are open-minded, idealistic, and seek intellectual stimulation. They have a need for personal freedom and authenticity. These individuals find emotional fulfillment through championing humanitarian causes, engaging in social activism, and embracing their unique and progressive perspectives.",
-      "compatibility": "Libra"
+      "compatibility": 7
     },
     {
       "id": 12,
@@ -967,7 +967,7 @@
       "symbol": "the two fishes",
       "picture": "",
       "trait": "Those with the Moon in Pisces have a compassionate and dreamy emotional nature. They are sensitive, intuitive, and seek transcendence and spiritual connection. They have a need for emotional and creative outlets. These individuals find emotional fulfillment through artistic expression, engaging in acts of compassion, connecting with their intuition, and finding solace in the realms of imagination and spirituality.",
-      "compatibility": "Scorpio"
+      "compatibility": 8
     }
   ],
   "risings": [
