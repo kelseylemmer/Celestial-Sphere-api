@@ -234,6 +234,15 @@
       "id": 20
     },
     {
+      "userId": 1,
+      "sunId": 12,
+      "moonId": 3,
+      "risingId": 1,
+      "picture": "https://i.imgur.com/N2iPFsc.png",
+      "displayName": "Kelsey Lemmer",
+      "id": 21
+    },
+    {
       "userId": 3,
       "sunId": 12,
       "moonId": 10,
@@ -250,15 +259,6 @@
       "picture": "https: //i.imgur.com/TgkqULs.png",
       "displayName": "patrick",
       "id": 23
-    },
-    {
-      "userId": 1,
-      "sunId": 12,
-      "moonId": 3,
-      "risingId": 1,
-      "picture": "https://i.imgur.com/1YEDxjr.png",
-      "displayName": "Kelsey",
-      "id": 24
     }
   ],
   "suns": [
@@ -1397,5 +1397,26 @@
       "symbol": ""
     }
   ],
-  "userSpheres": []
+  "userSpheres": [
+    {
+      "profileId": 4,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "profileId": 15,
+      "userId": 19,
+      "id": 18
+    },
+    {
+      "profileId": 20,
+      "userId": 19,
+      "id": 19
+    },
+    {
+      "profileId": 22,
+      "userId": 19,
+      "id": 20
+    }
+  ]
 }
