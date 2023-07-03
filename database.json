@@ -274,7 +274,7 @@
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
       "symbol": "The Ram",
-      "picture": "",
+      "picture": "♈︎",
       "trait": "With the Sun in Aries, individuals possess a strong sense of self and exude confidence and leadership. They are bold, energetic, and natural initiators. Aries Suns have a pioneering spirit and are not afraid to take risks or assert themselves in pursuit of their goals. They shine brightest when they are at the forefront, blazing their own trails and inspiring others with their dynamic presence."
     },
     {
@@ -304,7 +304,7 @@
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
       "symbol": "The Bull",
-      "picture": "",
+      "picture": "♉︎",
       "trait": "With the Sun in Taurus, individuals are grounded, practical, and have a strong appreciation for stability and material comforts. They value security and possess a patient and determined nature. Taurus Suns radiate a calm and steady energy and are reliable and trustworthy. They shine brightest when they are creating a sense of security and enjoying the pleasures of life."
     },
     {
@@ -334,7 +334,7 @@
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
       "symbol": "The Twins",
-      "picture": "",
+      "picture": "♊",
       "trait": "With the Sun in Gemini, individuals are intellectually curious, adaptable, and versatile. They possess a quick wit and have a natural gift for communication. Gemini Suns are social butterflies and thrive on mental stimulation and variety. They shine brightest when they are engaging in diverse conversations, sharing knowledge, and connecting with others through their charismatic and engaging personality."
     },
     {
@@ -364,7 +364,7 @@
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
       "symbol": "The Crab",
-      "picture": "",
+      "picture": "♋︎",
       "trait": "With the Sun in Cancer, individuals are deeply connected to their emotions and possess a nurturing and compassionate nature. They value their home and family and have a strong intuitive sense. Cancer Suns radiate empathy and emotional sensitivity. They shine brightest when they are creating a sense of emotional security, providing care and support to loved ones, and expressing their creative and artistic talents."
     },
     {
@@ -394,7 +394,7 @@
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
       "symbol": "The Lion",
-      "picture": "",
+      "picture": " ♌︎ ",
       "trait": "With the Sun in Leo, individuals have a radiant and charismatic presence. They possess a natural sense of confidence, creativity, and passion. Leo Suns love to be in the spotlight and have a strong desire for recognition and appreciation. They shine brightest when they are expressing their unique talents, leading with their heart, and inspiring others through their magnetic personality and leadership abilities."
     },
     {
@@ -424,7 +424,7 @@
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
       "symbol": "The Virgin",
-      "picture": "",
+      "picture": " ♍︎",
       "trait": "With the Sun in Virgo, individuals are analytical, practical, and detail-oriented. They possess a strong work ethic and a desire for perfection. Virgo Suns have a natural ability to discern and analyze, and they thrive in organized and efficient environments. They shine brightest when they are utilizing their analytical skills, serving others through their practicality and attention to detail, and bringing order and structure to their endeavors."
     },
     {
@@ -454,7 +454,7 @@
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
       "symbol": "The Scales",
-      "picture": "",
+      "picture": "♎︎",
       "trait": "With the Sun in Libra, individuals value harmony, balance, and fairness. They possess a natural sense of diplomacy and are skilled in finding common ground and fostering connections. Libra Suns radiate charm and grace and have a strong desire for partnership and cooperation. They shine brightest when they are promoting peace and harmony, advocating for justice, and creating beauty and harmony in their surroundings."
     },
     {
@@ -484,7 +484,7 @@
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
       "symbol": "The Scorpion",
-      "picture": "",
+      "picture": "♏︎",
       "trait": "With the Sun in Scorpio, individuals possess intensity, depth, and a powerful transformative energy. They are drawn to the mysteries of life and possess strong intuition and emotional depth. Scorpio Suns radiate magnetism and have a piercing insight. They shine brightest when they are embracing their personal power, delving into the depths of emotions, and using their transformative energy to bring about positive change."
     },
     {
@@ -514,7 +514,7 @@
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
       "symbol": "The Centaur/ Archer",
-      "picture": "",
+      "picture": "♐︎",
       "trait": "With the Sun in Sagittarius, individuals are adventurous, optimistic, and have a strong thirst for knowledge and expansion. They possess a love for exploration and a desire to seek truth and meaning. Sagittarius Suns radiate enthusiasm and have a jovial and expansive personality. They shine brightest when they are exploring new horizons, expanding their worldview, and inspiring others with their philosophical insights and zest for life."
     },
     {
@@ -545,7 +545,7 @@
       },
       "symbol": "The Sea Goat",
       "picture": "With the Sun in Capricorn, individuals are disciplined, ambitious, and possess a strong sense of responsibility. They value structure and are determined to achieve their goals. Capricorn Suns radiate a sense of reliability and wisdom. They shine brightest when they are utilizing their practicality and leadership skills, working towards long-term success, and bringing stability and order to their lives.",
-      "trait": ""
+      "trait": "♑︎"
     },
     {
       "id": 11,
@@ -574,7 +574,7 @@
         "sign": "Taurus, Leo, Scorpio, and Aquarius"
       },
       "symbol": "The Water Bearer",
-      "picture": "",
+      "picture": "♒︎",
       "trait": "With the Sun in Aquarius, individuals possess a unique, innovative, and independent spirit. They are forward-thinking, idealistic, and value their individuality and freedom. Aquarius Suns radiate a sense of originality and eccentricity. They shine brightest when they are championing humanitarian causes, embracing their individuality, and using their innovative thinking to bring about positive change for society."
     },
     {
@@ -604,7 +604,7 @@
         "sign": "Gemini, Virgo, Sagittarius, and Pisces"
       },
       "symbol": "The Two Fishes",
-      "picture": "",
+      "picture": "♓︎",
       "trait": "With the Sun in Pisces, individuals are intuitive, compassionate, and possess a deep sense of empathy. They are imaginative, dreamy, and possess a strong connection to the spiritual realm. Pisces Suns radiate a sense of ethereal beauty and sensitivity. They shine brightest when they are expressing their creativity, engaging in acts of service and compassion, and tapping into their intuitive and spiritual gifts to bring healing and inspiration to others."
     }
   ],
