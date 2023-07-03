@@ -111,15 +111,6 @@
   ],
   "profiles": [
     {
-      "id": 3,
-      "userId": 3,
-      "sunId": 12,
-      "moonId": 10,
-      "risingId": 12,
-      "picture": "https://i.imgur.com/CPwyBep.png",
-      "displayName": "Logan Welch"
-    },
-    {
       "id": 4,
       "userId": 4,
       "sunId": 11,
@@ -228,15 +219,6 @@
       "displayName": "Will Jackson"
     },
     {
-      "userId": 1,
-      "sunId": 12,
-      "moonId": 3,
-      "risingId": 1,
-      "picture": "https://i.imgur.com/N2iPFsc.png",
-      "displayName": "kelsey",
-      "id": 19
-    },
-    {
       "userId": 18,
       "sunId": 2,
       "moonId": 7,
@@ -244,6 +226,24 @@
       "picture": "https://i.imgur.com/ABa6D9c.jpg",
       "displayName": "Sarah Saturday",
       "id": 20
+    },
+    {
+      "userId": 1,
+      "sunId": 12,
+      "moonId": 3,
+      "risingId": 1,
+      "picture": "https://i.imgur.com/N2iPFsc.png",
+      "displayName": "Kelsey Lemmer",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "sunId": 12,
+      "moonId": 10,
+      "risingId": 12,
+      "picture": "https://i.imgur.com/CPwyBep.png",
+      "displayName": "Logan Welch",
+      "id": 22
     }
   ],
   "suns": [
@@ -313,8 +313,7 @@
       "dates": "May 22 - June 21",
       "planet": {
         "name": "Mercury",
-        "description": "the planet of communication and intellect. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. ",
-        "symbol": "https://i.imgur.com/cCuB2gq.jpg"
+        "description": "the planet of communication and intellect. It amplifies Gemini's curiosity, versatility, and quick thinking, enhancing their ability to express ideas, adapt, and connect with others. It accentuates Virgo's attention to detail, practicality, and intellectual acuity, supporting their meticulous approach to work, organization, and service. "
       },
       "body": {
         "part": "arms, hands & lungs",
@@ -1322,7 +1321,8 @@
     }
   ],
   "planets": [
-    { "id": 1,
+    {
+      "id": 1,
       "name": "Mars",
       "description": "Mars is the planet associated with energy, action, and assertiveness. It represents our drive, ambition, and passion. In the zodiac, Mars rules over the signs of Aries and traditionally Scorpio. Aries individuals embody courage, leadership, and a pioneering spirit, while Scorpio individuals possess intensity, emotional depth, and transformative power. In the houses, Mars's placement indicates the areas of life where we channel our energy, take initiative, and pursue our goals with determination.",
       "symbol": ""
@@ -1332,37 +1332,44 @@
       "name": "Venus",
       "description": "Venus is the planet of love, beauty, and harmony. It represents our relationships, aesthetics, and values. In the zodiac, Venus rules over the signs of Taurus and Libra. Taurus individuals appreciate sensuality, stability, and the finer things in life, while Libra individuals seek harmony, balance, and justice. In the houses, Venus's placement reveals the areas of life where we experience pleasure, seek harmony, and cultivate relationships based on love and mutual values.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 3,
       "name": "Mercury",
       "description": "Mercury is the planet of communication, intellect, and mental processes. It governs our thinking patterns and how we express ourselves verbally and in writing. In the zodiac, Mercury rules over the signs of Gemini and Virgo. Gemini individuals possess curiosity, adaptability, and excellent communication skills, while Virgo individuals exhibit analytical thinking, attention to detail, and practicality. In the houses, Mercury's placement indicates the areas of life where we engage in learning, exchange information, and apply our intellect.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 4,
       "name": "The Moon",
       "description": "The Moon plays a vital role in astrology, representing our emotions, instincts, and intuition. It symbolizes our inner world and our emotional well-being. In the zodiac, the Moon rules over the sign of Cancer, infusing Cancer individuals with deep sensitivity, nurturing qualities, and a strong attachment to home and family. In the houses, the Moon's placement reveals our emotional needs, habits, and the areas where we seek comfort and security.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 5,
       "name": "Pluto",
       "description": "Pluto is the planet associated with transformation, power, and regeneration. It represents our deepest desires, hidden potentials, and the process of rebirth. In the zodiac, Pluto is associated with the sign of Scorpio, endowing Scorpio individuals with intensity, emotional strength, and the ability to navigate the depths of life. In the houses, Pluto's placement reveals the areas of life where we undergo profound transformations, uncover hidden truths, and experience personal empowerment.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 6,
       "name": "Jupiter",
       "description": "Jupiter is the planet of expansion, abundance, and wisdom. It represents our beliefs, personal growth, and higher ideals. In the zodiac, Jupiter rules over the sign of Sagittarius and traditionally Pisces. Sagittarius individuals have an adventurous spirit, optimism, and a thirst for knowledge, while Pisces individuals exhibit empathy, creativity, and a deep connection to the spiritual realm. In the houses, Jupiter's placement indicates the areas of life where we seek growth, abundance, and the pursuit of truth and meaning.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 7,
       "name": "Saturn",
       "description": "Saturn is the planet associated with discipline, responsibility, and structure. It represents our limitations, challenges, and lessons in life. In the zodiac, Saturn rules over the sign of Capricorn and traditionally Aquarius. Capricorn individuals are ambitious, hardworking, and focused on achieving their goals, while Aquarius individuals are independent, innovative, and humanitarian. In the houses, Saturn's placement indicates the areas of life where we encounter obstacles, learn important life lessons, and develop long-lasting structures and foundations.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 8,
       "name": "Uranus",
       "description": "Uranus is the planet of innovation, originality, and rebellion. It represents our need for freedom, individuality, and change. In the zodiac, Uranus is associated with the sign of Aquarius, bestowing Aquarius individuals with a progressive mindset, unique thinking, and a desire to challenge the status quo. In the houses, Uranus's placement reveals the areas of life where we experience sudden shifts, liberation, and unconventional approaches.",
       "symbol": ""
-    },{
+    },
+    {
       "id": 9,
       "name": "Neptune",
       "description": "Neptune is the planet associated with spirituality, dreams, and illusions. It represents our imagination, intuition, and connection to the divine. In the zodiac, Neptune is associated with the sign of Pisces, enhancing Pisces individuals' artistic abilities, sensitivity, and compassion. In the houses, Neptune's placement indicates the areas of life where we experience heightened sensitivity, seek transcendence, and navigate the realm of dreams and illusions.",
@@ -1375,202 +1382,5 @@
       "symbol": ""
     }
   ],
-  "userSpheres": [
-    {
-      "profileId": 4,
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "profileId": 5,
-      "userId": 1,
-      "id": 6
-    },
-    {
-      "profileId": 6,
-      "userId": 1,
-      "id": 7
-    },
-    {
-      "profileId": 7,
-      "userId": 1,
-      "id": 8
-    },
-    {
-      "profileId": 8,
-      "userId": 1,
-      "id": 9
-    },
-    {
-      "profileId": 11,
-      "userId": 1,
-      "id": 10
-    },
-    {
-      "profileId": 13,
-      "userId": 1,
-      "id": 11
-    },
-    {
-      "profileId": 17,
-      "userId": 1,
-      "id": 12
-    },
-    {
-      "profileId": 16,
-      "userId": 1,
-      "id": 13
-    },
-    {
-      "profileId": 15,
-      "userId": 1,
-      "id": 14
-    },
-    {
-      "profileId": 14,
-      "userId": 1,
-      "id": 15
-    },
-    {
-      "profileId": 18,
-      "userId": 1,
-      "id": 16
-    },
-    {
-      "profileId": 3,
-      "userId": 16,
-      "id": 17
-    },
-    {
-      "profileId": 4,
-      "userId": 16,
-      "id": 18
-    },
-    {
-      "profileId": 5,
-      "userId": 16,
-      "id": 19
-    },
-    {
-      "profileId": 6,
-      "userId": 16,
-      "id": 20
-    },
-    {
-      "profileId": 7,
-      "userId": 16,
-      "id": 21
-    },
-    {
-      "profileId": 8,
-      "userId": 16,
-      "id": 22
-    },
-    {
-      "profileId": 11,
-      "userId": 16,
-      "id": 23
-    },
-    {
-      "profileId": 13,
-      "userId": 16,
-      "id": 24
-    },
-    {
-      "profileId": 16,
-      "userId": 16,
-      "id": 25
-    },
-    {
-      "profileId": 15,
-      "userId": 16,
-      "id": 26
-    },
-    {
-      "profileId": 14,
-      "userId": 16,
-      "id": 27
-    },
-    {
-      "profileId": 18,
-      "userId": 16,
-      "id": 28
-    },
-    {
-      "profileId": 19,
-      "userId": 16,
-      "id": 29
-    },
-    {
-      "profileId": 3,
-      "id": 30
-    },
-    {
-      "profileId": 4,
-      "id": 31
-    },
-    {
-      "profileId": 5,
-      "id": 32
-    },
-    {
-      "profileId": 6,
-      "id": 33
-    },
-    {
-      "profileId": 7,
-      "id": 34
-    },
-    {
-      "profileId": 8,
-      "id": 35
-    },
-    {
-      "profileId": 11,
-      "id": 36
-    },
-    {
-      "profileId": 13,
-      "id": 37
-    },
-    {
-      "profileId": 17,
-      "id": 38
-    },
-    {
-      "profileId": 16,
-      "id": 39
-    },
-    {
-      "profileId": 15,
-      "id": 40
-    },
-    {
-      "profileId": 14,
-      "id": 41
-    },
-    {
-      "profileId": 18,
-      "id": 42
-    },
-    {
-      "profileId": 19,
-      "id": 43
-    },
-    {
-      "profileId": 20,
-      "userId": 1,
-      "id": 44
-    },
-    {
-      "profileId": 20,
-      "userId": 16,
-      "id": 45
-    },
-    {
-      "profileId": 3,
-      "userId": 1,
-      "id": 46
-    }
-  ]
+  "userSpheres": []
 }
