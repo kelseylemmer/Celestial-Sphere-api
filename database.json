@@ -1346,7 +1346,7 @@
       "id": 1,
       "name": "Mars",
       "description": "Known as the action planet of the zodiac, Mars embodies an intense nature. It is associated with energy, passion, and determination. Mars encourages individuals to stand up, be noticed, and actively pursue their goals, as it rules over the military and symbolizes assertiveness and leadership. Ambition and competition also fall within Mars's realm. Mars inspires us to face challenges head-on and strive to be our best or even exceed our own limits. While Mars does encompass aggression, it also values courage and honor, rewarding those who exhibit a fearless nature. It is important to acknowledge that Mars's energy can manifest in both constructive and destructive ways. Mars represents violence, but it also encourages us to harness this force for positive purposes. Stamina, ambition, and achievement are key aspects of Mars's influence, urging individuals to push their boundaries and achieve greatness.  Mars also governs our sexuality and sexual energy, highlighting its connection to primal desires and passion. Additionally, it rules over weapons, accidents, and surgery, symbolizing the potential for both destruction and healing.",
-      "symbol": "",
+      "symbol": "♂",
       "transit": "6 - 7 weeks",
       "rules": "Aries"
     },
@@ -1354,7 +1354,7 @@
       "id": 2,
       "name": "Venus",
       "description": "Venus represents pleasure, particularly shared with others. It focuses on love, romance, and emotional harmony in relationships, including marriages, friendships, and partnerships. Venus spreads happiness, teaches us to love and appreciate others, and enhances our attractiveness and social interactions. Beauty is a significant aspect of Venus, encompassing the arts and aesthetics. It urges us to indulge our senses and embrace the world's beauty, emphasizing refinement, culture, charm, and grace. Venus also relates to the pleasure derived from possessions, such as luxuries, fine dining, beautiful homes, and refined tastes. It encourages us to appreciate the exquisite nature of things. Venus's realm is sensual, but not solely sexual in nature.",
-      "symbol": "",
+      "symbol": "♀",
       "transit": "4 - 5 weeks",
       "rules": "Taurus and Libra"
     },
@@ -1362,15 +1362,15 @@
       "id": 3,
       "name": "Mercury",
       "description": "Mercury governs communication, intellect, and awareness. It encompasses logic, reasoning, thought processes, and expression.  A mercurial nature implies restlessness and speed. Mercury is associated with quick wit, fast thinking, possibilities, opinions, and rationalization. Mercury prompts us to seek answers and move quickly on physical and psychological levels.  Mercury rules short trips, local visits, daily commutes, and weekend getaways. It also governs siblings and transportation in general. Speaking, writing, books, online communication, and learning are all under Mercury's influence. It urges us to express ourselves frequently and effectively. However, when Mercury goes retrograde (appearing to travel backward), our communications may face challenges.",
-      "symbol": "",
-      "transit": "3 - 4 weeks",
+      "symbol": "☿",
+      "transit": "2 - 3 weeks",
       "rules": "Gemini and Virgo"
     },
     {
       "id": 4,
       "name": "The Moon",
       "description": "The Moon, being the closest celestial body to Earth, quickly moves through the zodiac in less than a month, deeply influencing us in profound ways. As the ruler of tides, the Moon naturally governs our emotions. Our feelings have been likened to the sea— fluid, impactful, and stirring from within. The Moon influences mood swings, instincts, our personal emotional experiences, as well as how our emotions impact others.  Symbolizing the mother and the bond between women and children, the Moon embodies a goddess-like energy. It speaks to the nurturing role of women in our lives. Fertility, pregnancy, and childbirth also fall under the Moon's influence. Our emotions shape our daily existence, and the Moon plays a significant role in this ongoing process. Through the Moon's energy, we strive to reconcile diverse emotions and find completeness and harmony with the world. Additionally, the Moon aids us in recognizing our desires and using memory and the past as valuable tools.",
-      "symbol": "",
+      "symbol": "☽",
       "transit": "2 - 3 days",
       "rules": "Cancer"
     },
@@ -1378,7 +1378,7 @@
       "id": 5,
       "name": "Pluto",
       "description": "Being the outermost planet in our solar system, Pluto's energy may be subtle, but its impact is profound. Pluto represents transformation and rebirth. It operates in a no-nonsense manner, urging us to let go of the old and embrace the new. If we resist, Pluto forces us to confront our misery. It challenges us to transcend our limitations, redeem ourselves, and emerge stronger. While Pluto is associated with creation, it also thrives on destruction. It rules over death, obsession, coercion, viruses, and waste. It governs the underworld, crime, and various subversive activities. Pluto is shrouded in secrecy and hidden agendas, embodying the concept of good versus evil. Pluto's power compels individuals to introspect and explore their subconscious depths, regardless of any fear involved. Pluto knows how to push buttons and provoke self-discovery.",
-      "symbol": "",
+      "symbol": "♇",
       "transit": "12 - 15 years",
       "rules": "Scorpio"
     },
@@ -1386,7 +1386,7 @@
       "id": 6,
       "name": "Jupiter",
       "description": "Jupiter, the planet of intellect and exploration, inspires higher learning and the pursuit of ideas. It governs ideologies, religions, and philosophy. Jupiter encourages us to seek answers, even if it means embarking on long journeys. It prompts us to evaluate our ethics and maintain a sense of optimism. Jupiter is associated with luck and good fortune, acting as a benevolent guide to help us grow and thrive. While it oversees success and prosperity, it can also lead to laziness and weight gain. However, Jupiter generally steers us towards a positive path. Leisure activities, sports, games of chance, and enjoying time with pets are all within Jupiter's realm. Furthermore, Jupiter often indicates the potential for wealth, both material and otherwise. Overall, Jupiter is a favorable celestial companion.",
-      "symbol": "",
+      "symbol": "♃",
       "transit": "12 - 13 months",
       "rules": "Sagittarius"
     },
@@ -1394,7 +1394,7 @@
       "id": 7,
       "name": "Saturn",
       "description": "Saturn demands hard work, discipline, and responsibility. Saturn reminds us of the passing hours. It emphasizes the importance of managing limitations and restrictions. Saturn governs old age and the lessons it imparts, embodying the role of a teacher. It values tradition, conventionality, and wisdom that come with the passage of time. Saturn appreciates our perseverance and the ability to withstand the tests of time, bestowing a sense of authority upon us.  Structure, order, and the manner in which we handle our affairs are under Saturn's influence. It emphasizes contraction and managing our resources. As a teacher, Saturn also addresses karma and the lessons we can learn from past experiences.",
-      "symbol": "",
+      "symbol": "♄",
       "transit": "2 - 3 years",
       "rules": "Capricorn"
     },
@@ -1402,7 +1402,7 @@
       "id": 8,
       "name": "Uranus",
       "description": "Uranus represents a fresh perspective, urging us to embrace expanded consciousness. It governs originality, inventions, cutting-edge technologies, and future events. Rejecting the status quo, Uranus breaks traditions and strives for a new world order. Rebellion, revolution, autonomy, and free will are all under its influence. Uranus is anything but subtle, inciting erratic behavior and intricate schemes. It aligns with bohemian, utopian ideals and humanitarian principles. Freedom and creativity are highly valued, and astrology falls within its domain. Additionally, Uranus is associated with sudden, sometimes violent, and unexpected events, including earthquakes and natural disasters.",
-      "symbol": "",
+      "symbol": "♅",
       "transit": "7 years",
       "rules": "Aquarius"
     },
@@ -1410,7 +1410,7 @@
       "id": 9,
       "name": "Neptune",
       "description": "Neptune embodies fluidity and illusion. It governs dreams, abstract thought, and the mysterious. Our spirituality and personal growth are important to Neptune, inviting us to embrace its energy through meditation and heightened awareness. It favors poetic, musical, and dance. In addition, Neptune rules the realms of movies, television, theater, fashion, and glamour. Neptune can also be deceptive and subversive, dabbling in flattery. The shadow side of Neptune is associated with escapism, manifesting in behaviors like substance abuse, trances, and hypnosis. It can lead to delusion, hypochondria, and abnormality. Sleep and dreams are also influenced by Neptune. Ultimately, how we respond to Neptune's energy is up to us as it continues to influence our lives.",
-      "symbol": "",
+      "symbol": "♆",
       "transit": "10 - 12 years",
       "rules": "Pisces"
     },
@@ -1418,7 +1418,7 @@
       "id": 10,
       "name": "The Sun",
       "description": "TThe sun, a luminary and star, symbolizes life and self-expression. It represents our identity, personality, and uniqueness. It fuels our creativity and empowers us to face life's challenges. Father figures, husbands, and male influences are governed by the sun, as are children. Its energy is authoritative, enabling leadership and defining our core essence. Through the sun's influence, we learn to manifest ourselves in the world. Majestic and regal, the sun rules over royalty, higher positions, and our well-being. Its golden glow infuses us with vitality, strength, and the determination to succeed. As the source of energy for other planets, the sun holds a significant role in astrology.",
-      "symbol": "",
+      "symbol": "☉",
       "transit": "1 month",
       "rules": "Leo"
     }
