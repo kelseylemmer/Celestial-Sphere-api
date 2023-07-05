@@ -113,12 +113,6 @@
       "lastName": "cason",
       "email": "pcason@gmail.com",
       "id": 19
-    },
-    {
-      "firstName": "Test",
-      "lastName": "Account",
-      "email": "testaccount@gmail.com",
-      "id": 20
     }
   ],
   "profiles": [
@@ -1459,11 +1453,6 @@
       "profileId": 11,
       "userId": 1,
       "id": 7
-    },
-    {
-      "profileId": 8,
-      "userId": 1,
-      "id": 8
     },
     {
       "profileId": 15,
