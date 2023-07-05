@@ -107,12 +107,6 @@
       "lastName": "Saturday",
       "email": "ssaturday@gmail.com",
       "id": 18
-    },
-    {
-      "firstName": "patrick",
-      "lastName": "cason",
-      "email": "pcason@gmail.com",
-      "id": 19
     }
   ],
   "profiles": [
@@ -249,7 +243,7 @@
       "risingId": 1,
       "picture": "https://i.imgur.com/N2iPFsc.png",
       "displayName": "Kelsey Lemmer",
-      "id": 24
+      "id": 27
     }
   ],
   "suns": [
@@ -1420,71 +1414,6 @@
   ],
   "userSpheres": [
     {
-      "profileId": 4,
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "profileId": 5,
-      "userId": 1,
-      "id": 2
-    },
-    {
-      "profileId": 6,
-      "userId": 1,
-      "id": 3
-    },
-    {
-      "profileId": 7,
-      "userId": 1,
-      "id": 4
-    },
-    {
-      "profileId": 14,
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "profileId": 13,
-      "userId": 1,
-      "id": 6
-    },
-    {
-      "profileId": 11,
-      "userId": 1,
-      "id": 7
-    },
-    {
-      "profileId": 15,
-      "userId": 1,
-      "id": 9
-    },
-    {
-      "profileId": 16,
-      "userId": 1,
-      "id": 10
-    },
-    {
-      "profileId": 17,
-      "userId": 1,
-      "id": 11
-    },
-    {
-      "profileId": 18,
-      "userId": 1,
-      "id": 12
-    },
-    {
-      "profileId": 22,
-      "userId": 1,
-      "id": 13
-    },
-    {
-      "profileId": 20,
-      "userId": 1,
-      "id": 14
-    },
-    {
       "profileId": 5,
       "userId": 4,
       "id": 15
@@ -1550,11 +1479,6 @@
       "id": 27
     },
     {
-      "profileId": 24,
-      "userId": 4,
-      "id": 28
-    },
-    {
       "profileId": 4,
       "userId": 2,
       "id": 29
@@ -1608,11 +1532,6 @@
       "profileId": 18,
       "userId": 2,
       "id": 39
-    },
-    {
-      "profileId": 24,
-      "userId": 2,
-      "id": 40
     },
     {
       "profileId": 22,
@@ -1685,11 +1604,6 @@
       "id": 55
     },
     {
-      "profileId": 24,
-      "userId": 3,
-      "id": 56
-    },
-    {
       "profileId": 4,
       "userId": 5,
       "id": 57
@@ -1743,11 +1657,6 @@
       "profileId": 18,
       "userId": 5,
       "id": 67
-    },
-    {
-      "profileId": 24,
-      "userId": 5,
-      "id": 68
     },
     {
       "profileId": 22,
@@ -1813,11 +1722,6 @@
       "profileId": 18,
       "userId": 6,
       "id": 81
-    },
-    {
-      "profileId": 24,
-      "userId": 6,
-      "id": 82
     },
     {
       "profileId": 22,
@@ -1895,11 +1799,6 @@
       "id": 97
     },
     {
-      "profileId": 24,
-      "userId": 7,
-      "id": 98
-    },
-    {
       "profileId": 4,
       "userId": 8,
       "id": 99
@@ -1965,11 +1864,6 @@
       "id": 112
     },
     {
-      "profileId": 24,
-      "userId": 8,
-      "id": 113
-    },
-    {
       "profileId": 4,
       "userId": 11,
       "id": 114
@@ -2023,11 +1917,6 @@
       "profileId": 18,
       "userId": 11,
       "id": 124
-    },
-    {
-      "profileId": 24,
-      "userId": 11,
-      "id": 125
     },
     {
       "profileId": 22,
@@ -2095,11 +1984,6 @@
       "id": 138
     },
     {
-      "profileId": 24,
-      "userId": 13,
-      "id": 139
-    },
-    {
       "profileId": 22,
       "userId": 13,
       "id": 140
@@ -2165,11 +2049,6 @@
       "id": 152
     },
     {
-      "profileId": 24,
-      "userId": 14,
-      "id": 153
-    },
-    {
       "profileId": 22,
       "userId": 14,
       "id": 154
@@ -2233,11 +2112,6 @@
       "profileId": 18,
       "userId": 15,
       "id": 166
-    },
-    {
-      "profileId": 24,
-      "userId": 15,
-      "id": 167
     },
     {
       "profileId": 22,
@@ -2320,11 +2194,6 @@
       "id": 183
     },
     {
-      "profileId": 24,
-      "userId": 17,
-      "id": 184
-    },
-    {
       "profileId": 4,
       "userId": 16,
       "id": 185
@@ -2378,11 +2247,6 @@
       "profileId": 18,
       "userId": 16,
       "id": 195
-    },
-    {
-      "profileId": 24,
-      "userId": 16,
-      "id": 196
     },
     {
       "profileId": 22,
@@ -2458,11 +2322,6 @@
       "profileId": 22,
       "userId": 18,
       "id": 211
-    },
-    {
-      "profileId": 24,
-      "userId": 18,
-      "id": 212
     }
   ]
 }
