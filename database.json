@@ -249,15 +249,6 @@
       "id": 22
     },
     {
-      "userId": 19,
-      "sunId": 2,
-      "moonId": 6,
-      "risingId": 3,
-      "picture": "https: //i.imgur.com/TgkqULs.png",
-      "displayName": "patrick",
-      "id": 23
-    },
-    {
       "userId": 1,
       "sunId": 12,
       "moonId": 3,
@@ -565,8 +556,8 @@
         "sign": "Aries, Cancer, Libra, and Capricorn"
       },
       "symbol": "The Sea Goat",
-      "picture": "With the Sun in Capricorn, individuals are disciplined, ambitious, and possess a strong sense of responsibility. They value structure and are determined to achieve their goals. Capricorn Suns radiate a sense of reliability and wisdom. They shine brightest when they are utilizing their practicality and leadership skills, working towards long-term success, and bringing stability and order to their lives.",
-      "trait": "♑︎"
+      "picture": "♑︎",
+      "trait": "With the Sun in Capricorn, individuals are disciplined, ambitious, and possess a strong sense of responsibility. They value structure and are determined to achieve their goals. Capricorn Suns radiate a sense of reliability and wisdom. They shine brightest when they are utilizing their practicality and leadership skills, working towards long-term success, and bringing stability and order to their lives."
     },
     {
       "id": 11,
@@ -1349,7 +1340,7 @@
       "symbol": "♂",
       "transit": "6 - 7 weeks",
       "rules": "Aries",
-      "impact": "informs what gives you a sense of direction"
+      "impact": "informs what gives you a sense of direction."
     },
     {
       "id": 2,
@@ -1435,29 +1426,1054 @@
   ],
   "userSpheres": [
     {
-      "profileId": 5,
+      "profileId": 4,
       "userId": 1,
       "id": 1
     },
     {
-      "profileId": 6,
+      "profileId": 5,
       "userId": 1,
       "id": 2
     },
     {
-      "profileId": 7,
+      "profileId": 6,
       "userId": 1,
       "id": 3
     },
     {
-      "profileId": 14,
+      "profileId": 7,
       "userId": 1,
       "id": 4
     },
     {
-      "profileId": 13,
+      "profileId": 14,
       "userId": 1,
       "id": 5
+    },
+    {
+      "profileId": 13,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "profileId": 11,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "profileId": 8,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "profileId": 15,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "profileId": 16,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "profileId": 17,
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "profileId": 18,
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "profileId": 22,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "profileId": 20,
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "profileId": 5,
+      "userId": 4,
+      "id": 15
+    },
+    {
+      "profileId": 6,
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "profileId": 7,
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "profileId": 14,
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "profileId": 13,
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "profileId": 11,
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "profileId": 8,
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "profileId": 15,
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "profileId": 16,
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "profileId": 17,
+      "userId": 4,
+      "id": 24
+    },
+    {
+      "profileId": 18,
+      "userId": 4,
+      "id": 25
+    },
+    {
+      "profileId": 20,
+      "userId": 4,
+      "id": 26
+    },
+    {
+      "profileId": 22,
+      "userId": 4,
+      "id": 27
+    },
+    {
+      "profileId": 24,
+      "userId": 4,
+      "id": 28
+    },
+    {
+      "profileId": 4,
+      "userId": 2,
+      "id": 29
+    },
+    {
+      "profileId": 5,
+      "userId": 2,
+      "id": 30
+    },
+    {
+      "profileId": 6,
+      "userId": 2,
+      "id": 31
+    },
+    {
+      "profileId": 7,
+      "userId": 2,
+      "id": 32
+    },
+    {
+      "profileId": 14,
+      "userId": 2,
+      "id": 33
+    },
+    {
+      "profileId": 11,
+      "userId": 2,
+      "id": 34
+    },
+    {
+      "profileId": 8,
+      "userId": 2,
+      "id": 35
+    },
+    {
+      "profileId": 15,
+      "userId": 2,
+      "id": 36
+    },
+    {
+      "profileId": 16,
+      "userId": 2,
+      "id": 37
+    },
+    {
+      "profileId": 17,
+      "userId": 2,
+      "id": 38
+    },
+    {
+      "profileId": 18,
+      "userId": 2,
+      "id": 39
+    },
+    {
+      "profileId": 24,
+      "userId": 2,
+      "id": 40
+    },
+    {
+      "profileId": 22,
+      "userId": 2,
+      "id": 41
+    },
+    {
+      "profileId": 20,
+      "userId": 2,
+      "id": 42
+    },
+    {
+      "profileId": 5,
+      "userId": 3,
+      "id": 44
+    },
+    {
+      "profileId": 6,
+      "userId": 3,
+      "id": 45
+    },
+    {
+      "profileId": 7,
+      "userId": 3,
+      "id": 46
+    },
+    {
+      "profileId": 8,
+      "userId": 3,
+      "id": 47
+    },
+    {
+      "profileId": 11,
+      "userId": 3,
+      "id": 48
+    },
+    {
+      "profileId": 13,
+      "userId": 3,
+      "id": 49
+    },
+    {
+      "profileId": 14,
+      "userId": 3,
+      "id": 50
+    },
+    {
+      "profileId": 15,
+      "userId": 3,
+      "id": 51
+    },
+    {
+      "profileId": 16,
+      "userId": 3,
+      "id": 52
+    },
+    {
+      "profileId": 17,
+      "userId": 3,
+      "id": 53
+    },
+    {
+      "profileId": 18,
+      "userId": 3,
+      "id": 54
+    },
+    {
+      "profileId": 20,
+      "userId": 3,
+      "id": 55
+    },
+    {
+      "profileId": 24,
+      "userId": 3,
+      "id": 56
+    },
+    {
+      "profileId": 4,
+      "userId": 5,
+      "id": 57
+    },
+    {
+      "profileId": 6,
+      "userId": 5,
+      "id": 58
+    },
+    {
+      "profileId": 7,
+      "userId": 5,
+      "id": 59
+    },
+    {
+      "profileId": 14,
+      "userId": 5,
+      "id": 60
+    },
+    {
+      "profileId": 13,
+      "userId": 5,
+      "id": 61
+    },
+    {
+      "profileId": 11,
+      "userId": 5,
+      "id": 62
+    },
+    {
+      "profileId": 8,
+      "userId": 5,
+      "id": 63
+    },
+    {
+      "profileId": 15,
+      "userId": 5,
+      "id": 64
+    },
+    {
+      "profileId": 16,
+      "userId": 5,
+      "id": 65
+    },
+    {
+      "profileId": 17,
+      "userId": 5,
+      "id": 66
+    },
+    {
+      "profileId": 18,
+      "userId": 5,
+      "id": 67
+    },
+    {
+      "profileId": 24,
+      "userId": 5,
+      "id": 68
+    },
+    {
+      "profileId": 22,
+      "userId": 5,
+      "id": 69
+    },
+    {
+      "profileId": 20,
+      "userId": 5,
+      "id": 70
+    },
+    {
+      "profileId": 4,
+      "userId": 6,
+      "id": 71
+    },
+    {
+      "profileId": 5,
+      "userId": 6,
+      "id": 72
+    },
+    {
+      "profileId": 7,
+      "userId": 6,
+      "id": 73
+    },
+    {
+      "profileId": 14,
+      "userId": 6,
+      "id": 74
+    },
+    {
+      "profileId": 13,
+      "userId": 6,
+      "id": 75
+    },
+    {
+      "profileId": 11,
+      "userId": 6,
+      "id": 76
+    },
+    {
+      "profileId": 8,
+      "userId": 6,
+      "id": 77
+    },
+    {
+      "profileId": 15,
+      "userId": 6,
+      "id": 78
+    },
+    {
+      "profileId": 16,
+      "userId": 6,
+      "id": 79
+    },
+    {
+      "profileId": 17,
+      "userId": 6,
+      "id": 80
+    },
+    {
+      "profileId": 18,
+      "userId": 6,
+      "id": 81
+    },
+    {
+      "profileId": 24,
+      "userId": 6,
+      "id": 82
+    },
+    {
+      "profileId": 22,
+      "userId": 6,
+      "id": 83
+    },
+    {
+      "profileId": 20,
+      "userId": 6,
+      "id": 84
+    },
+    {
+      "profileId": 4,
+      "userId": 7,
+      "id": 85
+    },
+    {
+      "profileId": 5,
+      "userId": 7,
+      "id": 86
+    },
+    {
+      "profileId": 6,
+      "userId": 7,
+      "id": 87
+    },
+    {
+      "profileId": 8,
+      "userId": 7,
+      "id": 88
+    },
+    {
+      "profileId": 11,
+      "userId": 7,
+      "id": 89
+    },
+    {
+      "profileId": 13,
+      "userId": 7,
+      "id": 90
+    },
+    {
+      "profileId": 14,
+      "userId": 7,
+      "id": 91
+    },
+    {
+      "profileId": 18,
+      "userId": 7,
+      "id": 92
+    },
+    {
+      "profileId": 17,
+      "userId": 7,
+      "id": 93
+    },
+    {
+      "profileId": 16,
+      "userId": 7,
+      "id": 94
+    },
+    {
+      "profileId": 15,
+      "userId": 7,
+      "id": 95
+    },
+    {
+      "profileId": 20,
+      "userId": 7,
+      "id": 96
+    },
+    {
+      "profileId": 22,
+      "userId": 7,
+      "id": 97
+    },
+    {
+      "profileId": 24,
+      "userId": 7,
+      "id": 98
+    },
+    {
+      "profileId": 4,
+      "userId": 8,
+      "id": 99
+    },
+    {
+      "profileId": 5,
+      "userId": 8,
+      "id": 100
+    },
+    {
+      "profileId": 6,
+      "userId": 8,
+      "id": 101
+    },
+    {
+      "profileId": 7,
+      "userId": 8,
+      "id": 102
+    },
+    {
+      "profileId": 14,
+      "userId": 8,
+      "id": 103
+    },
+    {
+      "profileId": 13,
+      "userId": 8,
+      "id": 104
+    },
+    {
+      "profileId": 11,
+      "userId": 8,
+      "id": 105
+    },
+    {
+      "profileId": 15,
+      "userId": 8,
+      "id": 107
+    },
+    {
+      "profileId": 16,
+      "userId": 8,
+      "id": 108
+    },
+    {
+      "profileId": 17,
+      "userId": 8,
+      "id": 109
+    },
+    {
+      "profileId": 18,
+      "userId": 8,
+      "id": 110
+    },
+    {
+      "profileId": 20,
+      "userId": 8,
+      "id": 111
+    },
+    {
+      "profileId": 22,
+      "userId": 8,
+      "id": 112
+    },
+    {
+      "profileId": 24,
+      "userId": 8,
+      "id": 113
+    },
+    {
+      "profileId": 4,
+      "userId": 11,
+      "id": 114
+    },
+    {
+      "profileId": 5,
+      "userId": 11,
+      "id": 115
+    },
+    {
+      "profileId": 6,
+      "userId": 11,
+      "id": 116
+    },
+    {
+      "profileId": 7,
+      "userId": 11,
+      "id": 117
+    },
+    {
+      "profileId": 14,
+      "userId": 11,
+      "id": 118
+    },
+    {
+      "profileId": 13,
+      "userId": 11,
+      "id": 119
+    },
+    {
+      "profileId": 8,
+      "userId": 11,
+      "id": 120
+    },
+    {
+      "profileId": 15,
+      "userId": 11,
+      "id": 121
+    },
+    {
+      "profileId": 16,
+      "userId": 11,
+      "id": 122
+    },
+    {
+      "profileId": 17,
+      "userId": 11,
+      "id": 123
+    },
+    {
+      "profileId": 18,
+      "userId": 11,
+      "id": 124
+    },
+    {
+      "profileId": 24,
+      "userId": 11,
+      "id": 125
+    },
+    {
+      "profileId": 22,
+      "userId": 11,
+      "id": 126
+    },
+    {
+      "profileId": 20,
+      "userId": 11,
+      "id": 127
+    },
+    {
+      "profileId": 4,
+      "userId": 13,
+      "id": 128
+    },
+    {
+      "profileId": 5,
+      "userId": 13,
+      "id": 129
+    },
+    {
+      "profileId": 6,
+      "userId": 13,
+      "id": 130
+    },
+    {
+      "profileId": 7,
+      "userId": 13,
+      "id": 131
+    },
+    {
+      "profileId": 13,
+      "userId": 13,
+      "id": 132
+    },
+    {
+      "profileId": 11,
+      "userId": 13,
+      "id": 133
+    },
+    {
+      "profileId": 8,
+      "userId": 13,
+      "id": 134
+    },
+    {
+      "profileId": 15,
+      "userId": 13,
+      "id": 135
+    },
+    {
+      "profileId": 16,
+      "userId": 13,
+      "id": 136
+    },
+    {
+      "profileId": 17,
+      "userId": 13,
+      "id": 137
+    },
+    {
+      "profileId": 18,
+      "userId": 13,
+      "id": 138
+    },
+    {
+      "profileId": 24,
+      "userId": 13,
+      "id": 139
+    },
+    {
+      "profileId": 22,
+      "userId": 13,
+      "id": 140
+    },
+    {
+      "profileId": 20,
+      "userId": 13,
+      "id": 141
+    },
+    {
+      "profileId": 4,
+      "userId": 14,
+      "id": 142
+    },
+    {
+      "profileId": 5,
+      "userId": 14,
+      "id": 143
+    },
+    {
+      "profileId": 6,
+      "userId": 14,
+      "id": 144
+    },
+    {
+      "profileId": 7,
+      "userId": 14,
+      "id": 145
+    },
+    {
+      "profileId": 14,
+      "userId": 14,
+      "id": 146
+    },
+    {
+      "profileId": 13,
+      "userId": 14,
+      "id": 147
+    },
+    {
+      "profileId": 11,
+      "userId": 14,
+      "id": 148
+    },
+    {
+      "profileId": 8,
+      "userId": 14,
+      "id": 149
+    },
+    {
+      "profileId": 16,
+      "userId": 14,
+      "id": 150
+    },
+    {
+      "profileId": 17,
+      "userId": 14,
+      "id": 151
+    },
+    {
+      "profileId": 18,
+      "userId": 14,
+      "id": 152
+    },
+    {
+      "profileId": 24,
+      "userId": 14,
+      "id": 153
+    },
+    {
+      "profileId": 22,
+      "userId": 14,
+      "id": 154
+    },
+    {
+      "profileId": 20,
+      "userId": 14,
+      "id": 155
+    },
+    {
+      "profileId": 4,
+      "userId": 15,
+      "id": 156
+    },
+    {
+      "profileId": 5,
+      "userId": 15,
+      "id": 157
+    },
+    {
+      "profileId": 6,
+      "userId": 15,
+      "id": 158
+    },
+    {
+      "profileId": 7,
+      "userId": 15,
+      "id": 159
+    },
+    {
+      "profileId": 14,
+      "userId": 15,
+      "id": 160
+    },
+    {
+      "profileId": 13,
+      "userId": 15,
+      "id": 161
+    },
+    {
+      "profileId": 11,
+      "userId": 15,
+      "id": 162
+    },
+    {
+      "profileId": 8,
+      "userId": 15,
+      "id": 163
+    },
+    {
+      "profileId": 15,
+      "userId": 15,
+      "id": 164
+    },
+    {
+      "profileId": 17,
+      "userId": 15,
+      "id": 165
+    },
+    {
+      "profileId": 18,
+      "userId": 15,
+      "id": 166
+    },
+    {
+      "profileId": 24,
+      "userId": 15,
+      "id": 167
+    },
+    {
+      "profileId": 22,
+      "userId": 15,
+      "id": 168
+    },
+    {
+      "profileId": 20,
+      "userId": 15,
+      "id": 169
+    },
+    {
+      "profileId": 4,
+      "userId": 3,
+      "id": 170
+    },
+    {
+      "profileId": 4,
+      "userId": 17,
+      "id": 171
+    },
+    {
+      "profileId": 5,
+      "userId": 17,
+      "id": 172
+    },
+    {
+      "profileId": 6,
+      "userId": 17,
+      "id": 173
+    },
+    {
+      "profileId": 7,
+      "userId": 17,
+      "id": 174
+    },
+    {
+      "profileId": 8,
+      "userId": 17,
+      "id": 175
+    },
+    {
+      "profileId": 11,
+      "userId": 17,
+      "id": 176
+    },
+    {
+      "profileId": 13,
+      "userId": 17,
+      "id": 177
+    },
+    {
+      "profileId": 14,
+      "userId": 17,
+      "id": 178
+    },
+    {
+      "profileId": 17,
+      "userId": 17,
+      "id": 179
+    },
+    {
+      "profileId": 16,
+      "userId": 17,
+      "id": 180
+    },
+    {
+      "profileId": 15,
+      "userId": 17,
+      "id": 181
+    },
+    {
+      "profileId": 20,
+      "userId": 17,
+      "id": 182
+    },
+    {
+      "profileId": 22,
+      "userId": 17,
+      "id": 183
+    },
+    {
+      "profileId": 24,
+      "userId": 17,
+      "id": 184
+    },
+    {
+      "profileId": 4,
+      "userId": 16,
+      "id": 185
+    },
+    {
+      "profileId": 5,
+      "userId": 16,
+      "id": 186
+    },
+    {
+      "profileId": 6,
+      "userId": 16,
+      "id": 187
+    },
+    {
+      "profileId": 7,
+      "userId": 16,
+      "id": 188
+    },
+    {
+      "profileId": 14,
+      "userId": 16,
+      "id": 189
+    },
+    {
+      "profileId": 13,
+      "userId": 16,
+      "id": 190
+    },
+    {
+      "profileId": 11,
+      "userId": 16,
+      "id": 191
+    },
+    {
+      "profileId": 8,
+      "userId": 16,
+      "id": 192
+    },
+    {
+      "profileId": 15,
+      "userId": 16,
+      "id": 193
+    },
+    {
+      "profileId": 16,
+      "userId": 16,
+      "id": 194
+    },
+    {
+      "profileId": 18,
+      "userId": 16,
+      "id": 195
+    },
+    {
+      "profileId": 24,
+      "userId": 16,
+      "id": 196
+    },
+    {
+      "profileId": 22,
+      "userId": 16,
+      "id": 197
+    },
+    {
+      "profileId": 20,
+      "userId": 16,
+      "id": 198
+    },
+    {
+      "profileId": 4,
+      "userId": 18,
+      "id": 199
+    },
+    {
+      "profileId": 5,
+      "userId": 18,
+      "id": 200
+    },
+    {
+      "profileId": 6,
+      "userId": 18,
+      "id": 201
+    },
+    {
+      "profileId": 7,
+      "userId": 18,
+      "id": 202
+    },
+    {
+      "profileId": 14,
+      "userId": 18,
+      "id": 203
+    },
+    {
+      "profileId": 13,
+      "userId": 18,
+      "id": 204
+    },
+    {
+      "profileId": 11,
+      "userId": 18,
+      "id": 205
+    },
+    {
+      "profileId": 8,
+      "userId": 18,
+      "id": 206
+    },
+    {
+      "profileId": 15,
+      "userId": 18,
+      "id": 207
+    },
+    {
+      "profileId": 16,
+      "userId": 18,
+      "id": 208
+    },
+    {
+      "profileId": 17,
+      "userId": 18,
+      "id": 209
+    },
+    {
+      "profileId": 18,
+      "userId": 18,
+      "id": 210
+    },
+    {
+      "profileId": 22,
+      "userId": 18,
+      "id": 211
+    },
+    {
+      "profileId": 24,
+      "userId": 18,
+      "id": 212
     }
   ]
 }
